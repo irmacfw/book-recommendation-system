@@ -1,0 +1,35 @@
+[project]
+name = "book-recommendation-system"
+version = "0.1.0"
+description = "A Streamlit-based book recommendation system using Goodreads and Google Books data."
+authors = [{ name = "Irma Fernandez Wiechers" }]
+requires-python = ">=3.10"
+
+dependencies = [
+    # Core
+    "pandas",
+    "numpy",
+    "polars",
+    "scikit-learn",
+    "scipy",
+    # Web scraping
+    "requests",
+    "beautifulsoup4",
+    "lxml",
+    "html5lib",
+    # Visualization
+    "matplotlib",
+    "seaborn",
+    "plotly",
+    "wordcloud",
+    # Deployment
+    "streamlit",
+    # Utilities
+    "ipykernel",
+    "python-dotenv",
+    "pyyaml>=6.0.3",
+    "tqdm>=4.67.1",
+]
+
+[tool.uv]
+venv = ".venv"

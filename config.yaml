@@ -1,0 +1,16 @@
+# ============================================================
+# Project Configuration — Book Recommendation System
+# ============================================================
+
+paths:
+  data_raw: "data/raw"
+  data_clean: "data/clean"
+  notebooks: "notebooks"
+  models: "models"
+  app: "app"
+  utils: "utils"
+
+files:
+  goodreads_raw: "data/raw/goodreads_books.csv"
+  books_api_raw: "data/raw/books_api.csv"
+  combined: "data/clean/books_combined.csv"
