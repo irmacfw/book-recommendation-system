@@ -1,0 +1,991 @@
+﻿title,author,avg_rating,genre,published_year,price,currency,cover_url,link
+"The Hunger Games (The Hunger Games, #1)",Suzanne Collins,4.35,Young Adult Fiction,2009.0,13.64,EUR,http://books.google.com/books/content?id=Yz8Fnw0PlEQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2767052-the-hunger-games
+Pride and Prejudice,Jane Austen,4.29,Courtship,1918.0,,,http://books.google.com/books/content?id=s1gVAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1885.Pride_and_Prejudice
+To Kill a Mockingbird,Harper Lee,4.26,Alabama,1982.0,,,http://books.google.com/books/content?id=3t5dtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird
+"Harry Potter and the Order of the Phoenix (Harry Potter, #5)",J.K. Rowling,4.5,Juvenile Fiction,2015.0,,,http://books.google.com/books/content?id=zpvysRGsBlwC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/58613451-harry-potter-and-the-order-of-the-phoenix
+The Book Thief,Markus Zusak,4.39,Young Adult Fiction,2014.0,15.17,EUR,http://books.google.com/books/content?id=01EZAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/19063.The_Book_Thief
+"Twilight (The Twilight Saga, #1)",Stephenie Meyer,3.67,Juvenile Nonfiction,2013.0,89.26,EUR,http://books.google.com/books/content?id=9JBlAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/41865.Twilight
+Animal Farm,George Orwell,4.01,Fiction,2021.0,3.99,EUR,http://books.google.com/books/content?id=46X-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/170448.Animal_Farm
+J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings,J.R.R. Tolkien,4.61,Fiction,2012.0,,,http://books.google.com/books/content?id=8geXpwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/30.J_R_R_Tolkien_4_Book_Boxed_Set
+"The Chronicles of Narnia (The Chronicles of Narnia, #1-7)",C.S. Lewis,4.28,Juvenile Fiction,2016.0,11.46,EUR,http://books.google.com/books/content?id=6EIoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia
+The Fault in Our Stars,John Green,4.12,Young Adult Fiction,2012.0,7.99,EUR,http://books.google.com/books/content?id=Qk8n0olOX5MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars
+The Picture of Dorian Gray,Oscar Wilde,4.13,Fiction,1981.0,,,http://books.google.com/books/content?id=icSwNbJng4wC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray
+"The Lightning Thief (Percy Jackson and the Olympians, #1)",Rick Riordan,4.31,,2010.0,,,,https://www.goodreads.com/book/show/28187.The_Lightning_Thief
+Wuthering Heights,Emily Brontë,3.9,,2012.0,0.5,EUR,http://books.google.com/books/content?id=tSX11yxTH2AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6185.Wuthering_Heights
+The Giving Tree,Shel Silverstein,4.38,Juvenile Fiction,2014.0,10.99,EUR,http://books.google.com/books/content?id=1IleAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/370493.The_Giving_Tree
+Gone with the Wind,Margaret Mitchell,4.31,United States,1964.0,,,,https://www.goodreads.com/book/show/18405.Gone_with_the_Wind
+The Perks of Being a Wallflower,Stephen Chbosky,4.24,Fiction,2012.0,,,http://books.google.com/books/content?id=pK0X5FyUs28C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower
+The Little Prince,Antoine de Saint-Exupéry,4.33,Juvenile Fiction,1995.0,,,http://books.google.com/books/content?id=CQYg20lTHtMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/157993.The_Little_Prince
+Jane Eyre,Charlotte Brontë,4.16,Governesses in literature,1847.0,,,,https://www.goodreads.com/book/show/10210.Jane_Eyre
+The Great Gatsby,F. Scott Fitzgerald,3.93,Fiction,,1.48,EUR,http://books.google.com/books/content?id=4NXVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/4671.The_Great_Gatsby
+Crime and Punishment,Fyodor Dostoevsky,4.28,Fiction,2017.0,,,http://books.google.com/books/content?id=hlExDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7144.Crime_and_Punishment
+"The Da Vinci Code (Robert Langdon, #2)",Dan    Brown,3.93,Fiction,2010.0,11.99,EUR,http://books.google.com/books/content?id=ASDy1OLaP1cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/968.The_Da_Vinci_Code
+Alice’s Adventures in Wonderland / Through the Looking-Glass,Lewis Carroll,4.06,Fiction,2009.0,7.13,EUR,http://books.google.com/books/content?id=JiiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass
+"Divergent (Divergent, #1)",Veronica Roth,4.13,Young Adult Fiction,2011.0,8.99,EUR,http://books.google.com/books/content?id=nv9lZM_0RI4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/13335037-divergent
+Memoirs of a Geisha,Arthur Golden,4.16,Fiction,1997.0,,,http://books.google.com/books/content?id=nhmjYyUjCOsC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha
+Les Misérables,Victor Hugo,4.21,Fiction,2024.0,,,http://books.google.com/books/content?id=IMAyEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/24280.Les_Mis_rables
+The Alchemist,Paulo Coelho,3.92,Business & Economics,2009.0,10.21,EUR,http://books.google.com/books/content?id=FEL8DlqjYEkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/865.The_Alchemist
+"Anne of Green Gables (Anne of Green Gables, #1)",L.M. Montgomery,4.32,Juvenile Fiction,1968.0,,,http://books.google.com/books/content?id=jfhq49WlmIgC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/8127.Anne_of_Green_Gables
+Lord of the Flies,William Golding,3.7,Fiction,2003.0,,,http://books.google.com/books/content?id=3KRdJZbAN_sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7624.Lord_of_the_Flies
+Brave New World,Aldous Huxley,3.99,Fiction,2022.0,,,http://books.google.com/books/content?id=3PabEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5129.Brave_New_World
+Romeo and Juliet,William Shakespeare,3.74,Education,2013.0,4.49,EUR,http://books.google.com/books/content?id=MtjrDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/18135.Romeo_and_Juliet
+"The Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1)",Douglas Adams,4.22,Fiction,2002.0,,,http://books.google.com/books/content?id=Fu2VnsEW8S0C&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy
+"City of Bones (The Mortal Instruments, #1)",Cassandra Clare,4.07,Juvenile Fiction,2013.0,,,http://books.google.com/books/content?id=gv02GL9CgdQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/256683.City_of_Bones
+The Help,Kathryn Stockett,4.47,Fiction,2009.0,8.99,EUR,http://books.google.com/books/content?id=mpuhNtrkrV8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/4667024-the-help
+Dracula,Bram Stoker,4.02,Fiction,2025.0,1.99,EUR,http://books.google.com/books/content?id=ELHiCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/17245.Dracula
+Charlotte’s Web,E.B. White,4.21,Juvenile Fiction,2015.0,6.29,EUR,http://books.google.com/books/content?id=bQKCBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/24178.Charlotte_s_Web
+Fahrenheit 451,Ray Bradbury,3.97,,2008.0,,,http://books.google.com/books/content?id=FJe4b2Un4H4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/13079982-fahrenheit-451
+Of Mice and Men,John Steinbeck,3.89,Fiction,2024.0,2.73,EUR,http://books.google.com/books/content?id=YDP9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/890.Of_Mice_and_Men
+"Ender’s Game (Ender's Saga, #1)",Orson Scott Card,4.31,Fiction,2013.0,,,http://books.google.com/books/content?id=_ZghmgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/375802.Ender_s_Game
+1984,George Orwell,4.2,Fiction,2023.0,5.99,EUR,http://books.google.com/books/content?id=iqHIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/40961427-1984
+The Catcher in the Rye,J.D. Salinger,3.8,Study Aids,1995.0,,,http://books.google.com/books/content?id=M3dJfixJ6lIC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye
+"Little Women (Little Women, #1)",Louisa May Alcott,4.17,,1876.0,,,http://books.google.com/books/content?id=eHI1AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1934.Little_Women
+One Hundred Years of Solitude,Gabriel García Márquez,4.12,Fiction,2014.0,8.99,EUR,http://books.google.com/books/content?id=RyGVAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude
+A Thousand Splendid Suns,Khaled Hosseini,4.45,Fiction,2008.0,,,http://books.google.com/books/content?id=3vo0NQbIN2YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns
+The Outsiders,S.E. Hinton,4.14,Young Adult Fiction,2012.0,9.09,EUR,http://books.google.com/books/content?id=ha6GIYze5lEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/231804.The_Outsiders
+The Secret Garden,Frances Hodgson Burnett,4.17,,1991.0,,,,https://www.goodreads.com/book/show/2998.The_Secret_Garden
+The Princess Bride,William Goldman,4.27,Family & Relationships,2007.0,,,http://books.google.com/books/content?id=-TEhWYITfkYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/21787.The_Princess_Bride
+"A Game of Thrones (A Song of Ice and Fire, #1)",George R.R. Martin,4.45,Fiction,2003.0,8.32,EUR,http://books.google.com/books/content?id=5NomkK4EV68C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/13496.A_Game_of_Thrones
+The Time Traveler's Wife,Audrey Niffenegger,4.0,Fiction,2003.0,,,http://books.google.com/books/content?id=n2RhAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/18619684-the-time-traveler-s-wife
+"Harry Potter and the Deathly Hallows (Harry Potter, #7)",J.K. Rowling,4.62,Juvenile Fiction,2015.0,9.99,EUR,http://books.google.com/books/content?id=gCtazG4ZXlQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows
+The Odyssey,Homer,3.83,Fiction,2012.0,1.09,EUR,http://books.google.com/books/content?id=IdJN5DRXFwcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1381.The_Odyssey
+Frankenstein: The 1818 Text,Mary Wollstonecraft Shelley,3.9,Fiction,2018.0,9.09,EUR,http://books.google.com/books/content?id=bWOuDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/35031085-frankenstein
+"A Wrinkle in Time (Time Quintet, #1)",Madeleine L'Engle,3.97,Juvenile Fiction,2010.0,6.95,EUR,http://books.google.com/books/content?id=r119-dYq0mwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time
+"The Handmaid’s Tale (The Handmaid's Tale, #1)",Margaret Atwood,4.15,Fiction,1986.0,13.99,EUR,http://books.google.com/books/content?id=ZrsVZKWJg4UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale
+The Kite Runner,Khaled Hosseini,4.35,,2011.0,,,,https://www.goodreads.com/book/show/77203.The_Kite_Runner
+"The Giver (The Giver, #1)",Lois Lowry,4.12,Juvenile Fiction,2011.0,,,http://books.google.com/books/content?id=hKN9xV-xl2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/3636.The_Giver
+"Harry Potter and the Prisoner of Azkaban (Harry Potter, #3)",J.K. Rowling,4.58,Juvenile Fiction,2015.0,9.99,EUR,http://books.google.com/books/content?id=wHlDzHnt6x0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban
+"The Girl With the Dragon Tattoo (Millennium, #1)",Stieg Larsson,4.17,Comics & Graphic Novels,2017.0,5.87,EUR,http://books.google.com/books/content?id=I3grDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2429135.The_Girl_With_the_Dragon_Tattoo
+Dune (Dune #1),Frank Herbert,4.29,Fiction,2023.0,,,http://books.google.com/books/content?id=huy3EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/44767458-dune
+Where the Wild Things Are,Maurice Sendak,4.25,,1963.0,,,,https://www.goodreads.com/book/show/19543.Where_the_Wild_Things_Are
+Green Eggs and Ham,Dr. Seuss,4.31,Juvenile Fiction,2013.0,4.04,EUR,http://books.google.com/books/content?id=ZK7xAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/23772.Green_Eggs_and_Ham
+The Lovely Bones,Alice Sebold,3.86,Fiction,2018.0,12.56,EUR,http://books.google.com/books/content?id=w6H8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/12232938-the-lovely-bones
+The Adventures of Huckleberry Finn,Mark Twain,3.83,Fiction,2021.0,2.49,EUR,http://books.google.com/books/content?id=6u8sEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn
+Life of Pi,Yann Martel,3.94,Performing Arts,2022.0,12.56,EUR,http://books.google.com/books/content?id=c3JeEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/4214.Life_of_Pi
+Lolita,Vladimir Nabokov,3.87,Fiction,2010.0,,,http://books.google.com/books/content?id=utvB0I_0SZsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7604.Lolita
+A Tale of Two Cities,Charles Dickens,3.88,English literature,1868.0,,,http://books.google.com/books/content?id=YqfPAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities
+Slaughterhouse-Five,Kurt Vonnegut Jr.,4.1,,1973.0,,,,https://www.goodreads.com/book/show/4981.Slaughterhouse_Five
+The Bell Jar,Sylvia Plath,4.05,Fiction,2014.0,,,http://books.google.com/books/content?id=vRPtAQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/6514.The_Bell_Jar
+Matilda,Roald Dahl,4.33,Juvenile Fiction,2007.0,,,http://books.google.com/books/content?id=IClpljgfEZEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/39988.Matilda
+Water for Elephants,Sara Gruen,4.11,Fiction,2007.0,9.49,EUR,http://books.google.com/books/content?id=mHZ4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/43641.Water_for_Elephants
+"Harry Potter and the Philosopher’s Stone (Harry Potter, #1)",J.K. Rowling,4.47,,2002.0,,,http://books.google.com/books/content?id=2_zzAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/42844155-harry-potter-and-the-philosopher-s-stone
+The Stand,Stephen        King,4.35,Fiction,2016.0,13.99,EUR,http://books.google.com/books/content?id=M0DgBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/149267.The_Stand
+Catch-22,Joseph Heller,3.99,,1973.0,,,,https://www.goodreads.com/book/show/168668.Catch_22
+"The Adventures of Sherlock Holmes (Sherlock Holmes, #3)",Arthur Conan Doyle,4.3,"Detective and mystery stories, English",1893.0,,,http://books.google.com/books/content?id=L-I99mByKUsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes
+"The Pillars of the Earth (Kingsbridge, #1)",Ken Follett,4.35,Fiction,2008.0,14.99,EUR,http://books.google.com/books/content?id=CiCYALkUTaIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth
+Rebecca,Daphne du Maurier,4.25,Fiction,2016.0,13.99,EUR,http://books.google.com/books/content?id=VkeWCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/17899948-rebecca
+"Watership Down (Watership Down, #1)",Richard  Adams,4.09,Juvenile Fiction,2023.0,14.99,EUR,http://books.google.com/books/content?id=AMPDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/76620.Watership_Down
+Great Expectations,Charles Dickens,3.8,,1881.0,,,http://books.google.com/books/content?id=fhUXAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2623.Great_Expectations
+The Color Purple,Alice Walker,4.28,Fiction,1982.0,,,http://books.google.com/books/content?id=ZIogAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/52892857-the-color-purple
+"Outlander (Outlander, #1)",Diana Gabaldon,4.26,Fiction,2017.0,24.99,EUR,http://books.google.com/books/content?id=4iybDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10964.Outlander
+Anna Karenina,Leo Tolstoy,4.1,Fiction,2016.0,,,http://books.google.com/books/content?id=1DooDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/15823480-anna-karenina
+"The Fellowship of the Ring (The Lord of the Rings, #1)",J.R.R. Tolkien,4.4,Fiction,2009.0,11.14,EUR,http://books.google.com/books/content?id=xFr92V2k3PIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring
+One Flew Over the Cuckoo’s Nest,Ken Kesey,4.2,Fiction,2012.0,,,http://books.google.com/books/content?id=wCP2qgXwXdUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest
+My Sister's Keeper,Jodi Picoult,4.11,Fiction,2004.0,,,http://books.google.com/books/content?id=LR8aOkXEwUcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10917.My_Sister_s_Keeper
+The Brothers Karamazov,Fyodor Dostoevsky,4.39,,1968.0,,,,https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov
+A Clockwork Orange,Anthony Burgess,4.0,Fiction,2025.0,,,http://books.google.com/books/content?id=bgpJn-Oq22MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/41817486-a-clockwork-orange
+A Tree Grows in Brooklyn,Betty  Smith,4.3,Fiction,2009.0,8.99,EUR,http://books.google.com/books/content?id=jalsLkb1GTUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/14891.A_Tree_Grows_in_Brooklyn
+The Road,Cormac McCarthy,4.0,Fiction,2010.0,11.99,EUR,http://books.google.com/books/content?id=WIKrD-GKehQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6288.The_Road
+"The Golden Compass (His Dark Materials, #1)",Philip Pullman,4.03,Juvenile Fiction,2003.0,,,http://books.google.com/books/content?id=pUVaAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/119322.The_Golden_Compass
+"Harry Potter and the Goblet of Fire (Harry Potter, #4)",J.K. Rowling,4.57,Juvenile Fiction,2015.0,,,http://books.google.com/books/content?id=etukl7GfrxQC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire
+The Elephant Tree,R.D. Ronald,3.9,Fiction,2010.0,3.42,EUR,http://books.google.com/books/content?id=d10GBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/9293020-the-elephant-tree
+"Vampire Academy (Vampire Academy, #1)",Richelle Mead,4.1,Fiction,2011.0,9.99,EUR,http://books.google.com/books/content?id=iWGKBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/345627.Vampire_Academy
+Siddhartha,Hermann Hesse,4.08,Buddha (The concept),1925.0,,,http://books.google.com/books/content?id=L_aUZActwqsC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/52036.Siddhartha
+"Angela’s Ashes (Frank McCourt, #1)",Frank McCourt,4.15,Biography & Autobiography,1996.0,,,http://books.google.com/books/content?id=MIzkBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/252577.Angela_s_Ashes
+Don Quixote,Miguel de Cervantes Saavedra,3.91,,1892.0,,,http://books.google.com/books/content?id=oXLoIWxMdrIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/3836.Don_Quixote
+And Then There Were None,Agatha Christie,4.27,Fiction,2024.0,3.74,EUR,http://books.google.com/books/content?id=gAD4EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/16299.And_Then_There_Were_None
+The Old Man and the Sea,Ernest Hemingway,3.81,,1975.0,,,http://books.google.com/books/content?id=K1cIZmFe7KoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea
+The Poisonwood Bible,Barbara Kingsolver,4.11,,2001.0,,,,https://www.goodreads.com/book/show/7244.The_Poisonwood_Bible
+The Complete Stories and Poems,Edgar Allan Poe,4.4,Fiction,2023.0,1.99,EUR,http://books.google.com/books/content?id=PUTmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/23919.The_Complete_Stories_and_Poems
+The Zombie Room,R.D. Ronald,3.92,Suspense fiction,2012.0,,,,https://www.goodreads.com/book/show/29908754-the-zombie-room
+"Interview with the Vampire (The Vampire Chronicles, #1)",Anne Rice,4.02,Fiction,2010.0,8.09,EUR,http://books.google.com/books/content?id=MbW3_eSDGl4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/43763.Interview_with_the_Vampire
+The Girl Who Played with Fire (Millennium #2),Stieg Larsson,4.26,Fiction,2015.0,,,http://books.google.com/books/content?id=CreMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/5060378-the-girl-who-played-with-fire
+Atlas Shrugged,Ayn Rand,3.69,,1957.0,,,,https://www.goodreads.com/book/show/662.Atlas_Shrugged
+Gone Girl,Gillian Flynn,4.14,Fiction,2012.0,12.14,EUR,http://books.google.com/books/content?id=L25K1tY5WyoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/19288043-gone-girl
+"Winnie-the-Pooh (Winnie-the-Pooh, #1)",A.A. Milne,4.38,Juvenile Fiction,2022.0,1.99,EUR,http://books.google.com/books/content?id=iB7GEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/99107.Winnie_the_Pooh
+"The Notebook (The Notebook, #1)",Nicholas Sparks,4.16,Science,2020.0,,,http://books.google.com/books/content?id=vsXaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/33648131-the-notebook
+"Harry Potter and the Sorcerer's Stone (Harry Potter, #1)",J.K. Rowling,4.47,Juvenile Fiction,2018.0,,,http://books.google.com/books/content?id=3YUrtAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/3.Harry_Potter_and_the_Sorcerer_s_Stone
+"The Shining (The Shining, #1)",Stephen        King,4.28,Fiction,2008.0,7.07,EUR,http://books.google.com/books/content?id=8VnJLu3AvvQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/11588.The_Shining
+The Stranger,Albert Camus,4.03,Fiction,2012.0,12.14,EUR,http://books.google.com/books/content?id=7qylv1KYf0kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/49552.The_Stranger
+"Moby-Dick or, The Whale",Herman Melville,3.56,Fiction,2021.0,2.49,EUR,http://books.google.com/books/content?id=5O8sEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/153747.Moby_Dick_or_The_Whale
+A Prayer for Owen Meany,John Irving,4.24,Fiction,1989.0,,,http://books.google.com/books/content?id=lNtaAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/4473.A_Prayer_for_Owen_Meany
+Dark Places,Gillian Flynn,3.94,Fiction,2009.0,8.32,EUR,http://books.google.com/books/content?id=lTBa7Sz5JmYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5886881-dark-places
+A Story of Yesterday,Sergio Cobo,4.53,,,,,,https://www.goodreads.com/book/show/58913358-a-story-of-yesterday
+"Harry Potter and the Chamber of Secrets (Harry Potter, #2)",J.K. Rowling,4.43,Juvenile Fiction,1999.0,,,http://books.google.com/books/content?id=6CQzYAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets
+"Clockwork Angel (The Infernal Devices, #1)",Cassandra Clare,4.31,Young Adult Fiction,2013.0,32.63,EUR,http://books.google.com/books/content?id=-fHTJV9mAnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7171637-clockwork-angel
+Shutter Island,Dennis Lehane,4.13,,2010.0,,,http://books.google.com/books/content?id=v9G2bwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/21686.Shutter_Island
+"The Hobbit, or There and Back Again",J.R.R. Tolkien,4.3,Comics & Graphic Novels,2008.0,,,http://books.google.com/books/content?id=F2xu1nZOzKoC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again
+The Girl on the Train,Paula Hawkins,3.96,Fiction,2015.0,,,http://books.google.com/books/content?id=IUeyBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/22557272-the-girl-on-the-train
+It,Stephen        King,4.24,Fiction,2019.0,,,http://books.google.com/books/content?id=iCWgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/830502.It
+The Metamorphosis,Franz Kafka,3.9,,2015.0,,,,https://www.goodreads.com/book/show/485894.The_Metamorphosis
+The Secret Life of Bees,Sue Monk Kidd,4.1,Fiction,2013.0,,,http://books.google.com/books/content?id=O3PZCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/37435.The_Secret_Life_of_Bees
+"Red Dragon (Hannibal Lecter, #1)",Thomas  Harris,4.07,Fiction,2022.0,,,http://books.google.com/books/content?id=XNp0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/28877.Red_Dragon
+Mystic River,Dennis Lehane,4.17,Fiction,2010.0,5.49,EUR,http://books.google.com/books/content?id=mWt9mPtxsGUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/21671.Mystic_River
+"The Name of the Wind (The Kingkiller Chronicle, #1)",Patrick Rothfuss,4.52,Fantasy fiction,2007.0,,,http://books.google.com/books/content?id=pb7NAgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind
+The Red Tent,Anita Diamant,4.2,Fiction,1998.0,,,http://books.google.com/books/content?id=aMsXEYD9xPIC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/4989.The_Red_Tent
+Never Lie,Freida McFadden,4.08,,2023.0,,,http://books.google.com/books/content?id=qU7xzwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/62080187-never-lie
+Before I Go to Sleep,S.J. Watson,3.9,Identity (Psychology),2013.0,,,http://books.google.com/books/content?id=izKWMgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/9736930-before-i-go-to-sleep
+None of This Is True,Lisa Jewell,4.08,Fiction,2023.0,10.99,EUR,http://books.google.com/books/content?id=UImSEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/62334530-none-of-this-is-true
+Big Little Lies,Liane Moriarty,4.31,Fiction,2014.0,8.99,EUR,http://books.google.com/books/content?id=xOaKAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/33516773-big-little-lies
+The Master and Margarita,Mikhail Bulgakov,4.28,Fiction,1995.0,,,http://books.google.com/books/content?id=zUloAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/117833.The_Master_and_Margarita
+The Paris Apartment,Lucy Foley,3.65,Fiction,2022.0,6.99,EUR,http://books.google.com/books/content?id=ByH9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/58468990-the-paris-apartment
+"The Family Upstairs (The Family Upstairs, #1)",Lisa Jewell,3.96,Fiction,2023.0,,,http://books.google.com/books/content?id=R6TTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/43822820-the-family-upstairs
+Lock Every Door,Riley Sager,3.89,Fiction,2019.0,8.99,EUR,http://books.google.com/books/content?id=XQh1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/41837243-lock-every-door
+"The Housemaid's Secret (The Housemaid, #2)",Freida McFadden,4.18,Fiction,2025.0,,,http://books.google.com/books/content?id=kroQ0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/62848145-the-housemaid-s-secret
+"You (You, #1)",Caroline Kepnes,3.96,,1909.0,,,,https://www.goodreads.com/book/show/36430011-you
+The Woman in the Window,A.J. Finn,3.94,Fiction,2018.0,6.29,EUR,http://books.google.com/books/content?id=ttItDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/40389527-the-woman-in-the-window
+"The Woman in Cabin 10 (Lo Blacklock, #1)",Ruth Ware,3.72,Fiction,2017.0,9.99,EUR,http://books.google.com/books/content?id=-0AzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/28187230-the-woman-in-cabin-10
+The Count of Monte Cristo,Alexandre Dumas,4.32,Fiction,1997.0,,,http://books.google.com/books/content?id=eXRRNzjlXrkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo
+Pretty Girls,Karin Slaughter,4.01,,2019.0,,,,https://www.goodreads.com/book/show/25574782-pretty-girls
+Home Before Dark,Riley Sager,4.05,Fiction,2020.0,10.11,EUR,http://books.google.com/books/content?id=Dda1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/50833559-home-before-dark
+"The Bone Collector (Lincoln Rhyme, #1)",Jeffery Deaver,4.2,Fiction,2009.0,5.49,EUR,http://books.google.com/books/content?id=lzrFiFmJP1gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2373.The_Bone_Collector
+The Only One Left,Riley Sager,4.13,Fiction,2025.0,,,http://books.google.com/books/content?id=6L9aEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/62703226-the-only-one-left
+No Exit,Taylor  Adams,3.99,,2019.0,,,,https://www.goodreads.com/book/show/35522836-no-exit
+Behind Closed Doors,B.A. Paris,3.97,Fiction,2016.0,,,http://books.google.com/books/content?id=lFaTDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/29437949-behind-closed-doors
+The Couple Next Door,Shari Lapena,3.8,Fiction,2016.0,8.99,EUR,http://books.google.com/books/content?id=s744CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/28815474-the-couple-next-door
+"The Last Olympian (Percy Jackson and the Olympians, #5)",Rick Riordan,4.55,Juvenile Fiction,2009.0,,,http://books.google.com/books/content?id=pcyOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/4556058-the-last-olympian
+Final Girls,Riley Sager,3.82,,2024.0,,,,https://www.goodreads.com/book/show/32796253-final-girls
+"The Last Thing He Told Me (Hannah Hall, #1)",Laura Dave,3.83,Fiction,2021.0,13.84,EUR,http://books.google.com/books/content?id=3s8DEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/54981009-the-last-thing-he-told-me
+Eragon (The Inheritance Cycle #1),Christopher Paolini,3.96,Young Adult Fiction,2005.0,,,http://books.google.com/books/content?id=gabGYKgIQr8C&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/113436.Eragon
+The Very Hungry Caterpillar,Eric Carle,4.34,Juvenile Fiction,2016.0,5.04,EUR,http://books.google.com/books/content?id=XP1EDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/4948.The_Very_Hungry_Caterpillar
+Then She Was Gone,Lisa Jewell,4.04,Fiction,2018.0,,,http://books.google.com/books/content?id=At0vDwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/35297426-then-she-was-gone
+A Flicker in the Dark,Stacy Willingham,3.97,,2023.0,,,,https://www.goodreads.com/book/show/57693172-a-flicker-in-the-dark
+Looking for Alaska,John Green,3.96,Young Adult Fiction,2008.0,9.09,EUR,http://books.google.com/books/content?id=5v1NBhR1W88C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/99561.Looking_for_Alaska
+"The Lion, the Witch and the Wardrobe (Chronicles of Narnia, #1)",C.S. Lewis,4.24,Juvenile Fiction,2016.0,11.46,EUR,http://books.google.com/books/content?id=6EIoDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/100915.The_Lion_the_Witch_and_the_Wardrobe
+"Charlie and the Chocolate Factory (Charlie Bucket, #1)",Roald Dahl,4.17,Accelerated readers,1973.0,,,http://books.google.com/books/content?id=7tYWAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/6310.Charlie_and_the_Chocolate_Factory
+Perfume: The Story of a Murderer,Patrick Süskind,4.04,Fiction,2015.0,8.99,EUR,http://books.google.com/books/content?id=6iRhEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/343.Perfume
+Middlesex,Jeffrey Eugenides,4.04,,2004.0,,,http://books.google.com/books/content?id=Bzg8AAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2187.Middlesex
+The Adventures of Tom Sawyer,Mark Twain,3.92,Fiction,2004.0,,,http://books.google.com/books/content?id=t5yFTpIJYhcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/24583.The_Adventures_of_Tom_Sawyer
+"The Shadow of the Wind (The Cemetery of Forgotten Books, #1)",Carlos Ruiz Zafón,4.31,Fiction,2009.0,5.49,EUR,http://books.google.com/books/content?id=z9Fe2htTgdoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind
+The Curious Incident of the Dog in the Night-Time,Mark Haddon,3.89,Fiction,2012.0,8.99,EUR,http://books.google.com/books/content?id=WKcaQG7csYAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1618.The_Curious_Incident_of_the_Dog_in_the_Night_Time
+Fight Club,Chuck Palahniuk,4.18,Fiction,2011.0,8.99,EUR,http://books.google.com/books/content?id=YgtQHP6srPAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/36236124-fight-club
+"Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",Mitch Albom,4.2,Biography & Autobiography,2009.0,5.49,EUR,http://books.google.com/books/content?id=ikl91bkuYpMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie
+"Six of Crows (Six of Crows, #1)",Leigh Bardugo,4.46,Young Adult Fiction,2015.0,9.27,EUR,http://books.google.com/books/content?id=yhIRBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/23437156-six-of-crows
+"Holes (Holes, #1)",Louis Sachar,4.01,Juvenile Fiction,2010.0,8.79,EUR,http://books.google.com/books/content?id=vlJw20OoYqUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/38709.Holes
+The Unbearable Lightness of Being,Milan Kundera,4.11,Fiction,2020.0,10.99,EUR,http://books.google.com/books/content?id=Ufv_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being
+"Harry Potter and the Half-Blood Prince (Harry Potter, #6)",J.K. Rowling,4.58,Juvenile Fiction,2015.0,9.99,EUR,http://books.google.com/books/content?id=qaKkenvL29UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1.Harry_Potter_and_the_Half_Blood_Prince
+The Name of the Rose,Umberto Eco,4.14,Fiction,1994.0,,,http://books.google.com/books/content?id=fxd72t5dEPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/119073.The_Name_of_the_Rose
+On the Road,Jack Kerouac,3.61,,1976.0,,,,https://www.goodreads.com/book/show/70401.On_the_Road
+Where the Red Fern Grows,Wilson Rawls,4.13,Juvenile Fiction,2011.0,6.06,EUR,http://books.google.com/books/content?id=BrgeEEykkP8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10365.Where_the_Red_Fern_Grows
+"The Godfather (The Godfather, #1)",Mario Puzo,4.4,Fiction,2005.0,,,http://books.google.com/books/content?id=acy0U6WyM7MC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/22034.The_Godfather
+In Cold Blood,Truman Capote,4.09,True Crime,2001.0,8.09,EUR,http://books.google.com/books/content?id=NGJubhmwqfoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/168642.In_Cold_Blood
+The Scarlet Letter,Nathaniel Hawthorne,3.44,Fiction,1995.0,,,http://books.google.com/books/content?id=t7DUXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/12296.The_Scarlet_Letter
+The Secret History,Donna Tartt,4.16,Fiction,2011.0,9.09,EUR,http://books.google.com/books/content?id=VO2w8m-ZAeMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/29044.The_Secret_History
+"Catching Fire (The Hunger Games, #2)",Suzanne Collins,4.35,Fiction,2011.0,7.77,EUR,http://books.google.com/books/content?id=rBjcAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6148028-catching-fire
+"American Gods: Tenth Anniversary (American Gods, #1)",Neil Gaiman,4.1,Fiction,2011.0,5.39,EUR,http://books.google.com/books/content?id=ryCGrxr7z98C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/30165203-american-gods
+The Five People You Meet in Heaven,Mitch Albom,4.01,Fiction,2007.0,9.99,EUR,http://books.google.com/books/content?id=5sOLAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/3431.The_Five_People_You_Meet_in_Heaven
+The Song of Achilles,Madeline Miller,4.31,Fiction,2012.0,,,http://books.google.com/books/content?id=szMU9omwV0wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/13623848-the-song-of-achilles
+The Divine Comedy: Inferno - Purgatorio - Paradiso,Dante Alighieri,4.08,Poetry,2017.0,16.68,EUR,http://books.google.com/books/content?id=QdAmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6656.The_Divine_Comedy
+Watchmen,Alan             Moore,4.39,Comics & Graphic Novels,2005.0,,,http://books.google.com/books/content?id=Jw5RAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/472331.Watchmen
+All Quiet on the Western Front,Erich Maria Remarque,4.11,Juvenile Nonfiction,2008.0,,,http://books.google.com/books/content?id=Ubk7YzNZGQUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front
+"The Cat in the Hat (Cat in the Hat, #1)",Dr. Seuss,4.19,Brothers and sisters,1957.0,,,http://books.google.com/books/content?id=rFfhAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/233093.The_Cat_in_the_Hat
+"Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch",Terry Pratchett,4.25,Fiction,2011.0,5.69,EUR,http://books.google.com/books/content?id=-o-2KpQlFNsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/12067.Good_Omens
+"Lonesome Dove (Lonesome Dove, #1)",Larry McMurtry,4.57,Cattle drives,1986.0,,,http://books.google.com/books/content?id=GXYH1C_esq0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/256008.Lonesome_Dove
+"The Little House Collection (Little House, #1-9)",Laura Ingalls Wilder,4.36,Juvenile Fiction,2004.0,,,http://books.google.com/books/content?id=lDUbAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/114345.The_Little_House_Collection
+"Hush, Hush (Hush, Hush, #1)",Becca Fitzpatrick,3.92,,2018.0,,,,https://www.goodreads.com/book/show/6339664-hush-hush
+Peter Pan,J.M. Barrie,4.03,Juvenile Fiction,2001.0,,,http://books.google.com/books/content?id=ogjljqn1R2kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/34268.Peter_Pan
+"The Titan’s Curse (Percy Jackson and the Olympians, #3)",Rick Riordan,4.37,Juvenile Fiction,2007.0,,,http://books.google.com/books/content?id=OcyOEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/561456.The_Titan_s_Curse
+"The Battle of the Labyrinth (Percy Jackson and the Olympians, #4)",Rick Riordan,4.42,"Animals, Mythical",2009.0,,,http://books.google.com/books/content?id=SRFuuAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/2120932.The_Battle_of_the_Labyrinth
+Love in the Time of Cholera,Gabriel García Márquez,3.94,Fiction,2014.0,,,http://books.google.com/books/content?id=E7iFBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/9712.Love_in_the_Time_of_Cholera
+"Throne of Glass (Throne of Glass, #1)",Sarah J. Maas,4.18,Fiction,2012.0,10.04,EUR,http://books.google.com/books/content?id=I8ydHVJiobIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7896527-throne-of-glass
+"Insurgent (Divergent, #2)",Veronica Roth,3.96,Juvenile Fiction,2012.0,5.49,EUR,http://books.google.com/books/content?id=7Z-zYGyQKoUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/11735983-insurgent
+The Addiction Manifesto,Jerry Weaver,4.74,Self-Help,2018.0,,,http://books.google.com/books/content?id=iq9XDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/58572970-the-addiction-manifesto
+"The Sea of Monsters (Percy Jackson and the Olympians, #2)",Rick Riordan,4.24,Juvenile Fiction,2014.0,14.99,EUR,http://books.google.com/books/content?id=0YU2AAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/28186.The_Sea_of_Monsters
+A Walk to Remember,Nicholas Sparks,4.2,High school students,1999.0,,,http://books.google.com/books/content?id=yIz_zgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/35545737-a-walk-to-remember
+"A Court of Mist and Fury (A Court of Thorns and Roses, #2)",Sarah J. Maas,4.64,Fiction,2016.0,11.3,EUR,http://books.google.com/books/content?id=LtEkCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/17927395-a-court-of-mist-and-fury
+"Clockwork Princess (The Infernal Devices, #3)",Cassandra Clare,4.55,Young Adult Fiction,2013.0,32.63,EUR,http://books.google.com/books/content?id=-fHTJV9mAnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/18335634-clockwork-princess
+How the Grinch Stole Christmas!,Dr. Seuss,4.38,Juvenile Fiction,2013.0,11.13,EUR,http://books.google.com/books/content?id=ibw4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/113946.How_the_Grinch_Stole_Christmas_
+The Thorn Birds,Colleen McCullough,4.25,,1978.0,,,,https://www.goodreads.com/book/show/3412.The_Thorn_Birds
+"The Ultimate Hitchhiker’s Guide to the Galaxy (Hitchhiker's Guide to the Galaxy, #1-5)",Douglas Adams,4.38,Fiction,2002.0,,,http://books.google.com/books/content?id=Fu2VnsEW8S0C&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/13.The_Ultimate_Hitchhiker_s_Guide_to_the_Galaxy
+"The Maze Runner (The Maze Runner, #1)",James Dashner,4.05,Juvenile Fiction,2012.0,,,http://books.google.com/books/content?id=yo5GBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6186357-the-maze-runner
+"Shadow Kiss (Vampire Academy, #3)",Richelle Mead,4.33,Young Adult Fiction,2008.0,9.09,EUR,http://books.google.com/books/content?id=KqyijSJv8lwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2802316-shadow-kiss
+The Compleat Works of Wllm Shkspr,Reduced Shakespeare Company,4.43,,,,,,https://www.goodreads.com/book/show/1423.The_Compleat_Works_of_Wllm_Shkspr
+Their Eyes Were Watching God,Zora Neale Hurston,3.99,Fiction,2022.0,,,http://books.google.com/books/content?id=GH1_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/37415.Their_Eyes_Were_Watching_God
+The Importance of Being Earnest,Oscar Wilde,4.17,Drama,1994.0,,,http://books.google.com/books/content?id=qbWQpH9j41IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/92303.The_Importance_of_Being_Earnest
+"The Wonderful Wizard of Oz (Oz, #1)",L. Frank Baum,4.0,Art,2001.0,,,http://books.google.com/books/content?id=jtp216JpYZgC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/236093.The_Wonderful_Wizard_of_Oz
+Atonement,Ian McEwan,3.95,Fiction,2007.0,,,http://books.google.com/books/content?id=d3fo20vUHekC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/6867.Atonement
+The Three Musketeers,Alexandre Dumas,4.1,,1878.0,,,http://books.google.com/books/content?id=KW0YAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7190.The_Three_Musketeers
+The Lorax,Dr. Seuss,4.35,Juvenile Fiction,2013.0,7.07,EUR,http://books.google.com/books/content?id=-6_xAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7784.The_Lorax
+The Seven Husbands of Evelyn Hugo,Taylor Jenkins Reid,4.4,Fiction,2024.0,,,http://books.google.com/books/content?id=JelhEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo
+"Eat, Pray, Love",Elizabeth Gilbert,3.64,Biography & Autobiography,2007.0,9.09,EUR,http://books.google.com/books/content?id=EbquUB1D6B8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/19501.Eat_Pray_Love
+Goodnight Moon,Margaret Wise Brown,4.32,,1947.0,,,,https://www.goodreads.com/book/show/32929.Goodnight_Moon
+"The Hunger Games Trilogy Boxset (The Hunger Games, #1-3)",Suzanne Collins,4.5,Fiction,2011.0,,,http://books.google.com/books/content?id=_zSzAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7938275-the-hunger-games-trilogy-boxset
+The Diary of a Young Girl,Anne Frank,4.2,,1970.0,,,,https://www.goodreads.com/book/show/48855.The_Diary_of_a_Young_Girl
+A Midsummer Night’s Dream,William Shakespeare,3.94,Drama,2015.0,6.91,EUR,http://books.google.com/books/content?id=WO8FAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1622.A_Midsummer_Night_s_Dream
+"Murder on the Orient Express (Hercule Poirot, #10)",Agatha Christie,4.2,"Detective and mystery stories, English",2006.0,,,,https://www.goodreads.com/book/show/853510.Murder_on_the_Orient_Express
+Bridge to Terabithia,Katherine Paterson,4.06,Juvenile Fiction,1996.0,,,http://books.google.com/books/content?id=huL_On7RAhAC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/40940121-bridge-to-terabithia
+"Frostbite (Vampire Academy, #2)",Richelle Mead,4.25,Juvenile Fiction,2008.0,,,http://books.google.com/books/content?id=RxuU35ZmkvoC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/2282133.Frostbite
+"The Selection (The Selection, #1)",Kiera Cass,4.07,Young Adult Fiction,2012.0,8.99,EUR,http://books.google.com/books/content?id=HbhccC9yumAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10507293-the-selection
+Tess of the D’Urbervilles,Thomas Hardy,3.84,Fiction,2021.0,3.49,EUR,http://books.google.com/books/content?id=QrwzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/32261.Tess_of_the_D_Urbervilles
+Heart of Darkness,Joseph Conrad,3.43,Fiction,1990.0,,,http://books.google.com/books/content?id=cWDcDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/4900.Heart_of_Darkness
+The Night Circus,Erin Morgenstern,4.0,Fiction,2011.0,3.99,EUR,http://books.google.com/books/content?id=GwAWS6C33O4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/9361589-the-night-circus
+The Prophet,Kahlil Gibran,4.23,Philosophy,1997.0,,,http://books.google.com/books/content?id=n5BlBsFbGOQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2547.The_Prophet
+The Call of the Wild,Jack London,3.91,,1903.0,,,http://books.google.com/books/content?id=j0oYi3O_tvgC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/1852.The_Call_of_the_Wild
+"Blood Promise (Vampire Academy, #4)",Richelle Mead,4.3,Fiction,2009.0,,,http://books.google.com/books/content?id=fo_TXENidlUC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/5996153-blood-promise
+Alice in Wonderland,Jane Carruth,4.03,,1963.0,,,,https://www.goodreads.com/book/show/13023.Alice_in_Wonderland
+The Joy Luck Club,Amy Tan,3.97,Fiction,2008.0,8.99,EUR,http://books.google.com/books/content?id=AojD26ziX2IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7763.The_Joy_Luck_Club
+"The Good Earth (House of Earth, #1)",Pearl S. Buck,4.01,Fiction,2004.0,,,http://books.google.com/books/content?id=U6OgdLXPwvAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1078.The_Good_Earth
+"Oh, the Places You’ll Go!",Dr. Seuss,4.37,Juvenile Fiction,2013.0,11.13,EUR,http://books.google.com/books/content?id=hbw4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/191139.Oh_the_Places_You_ll_Go_
+The Phantom Tollbooth,Norton Juster,4.2,,1993.0,,,,https://www.goodreads.com/book/show/378.The_Phantom_Tollbooth
+The Neverending Story,Michael Ende,4.18,Fiction,1984.0,,,http://books.google.com/books/content?id=oCDN70LpoFgC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/27712.The_Neverending_Story
+Madame Bovary,Gustave Flaubert,3.71,Fiction,2003.0,,,http://books.google.com/books/content?id=5LlddZgi6iYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2175.Madame_Bovary
+Treasure Island,Robert Louis Stevenson,3.85,,1949.0,,,,https://www.goodreads.com/book/show/295.Treasure_Island
+Oliver Twist,Charles Dickens,3.88,Fiction,2024.0,4.99,EUR,http://books.google.com/books/content?id=yPjvEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/18254.Oliver_Twist
+"The Mists of Avalon (Avalon, #1)",Marion Zimmer Bradley,4.13,Fiction,2001.0,,,http://books.google.com/books/content?id=hPHO7A8n_Q0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/40605251-the-mists-of-avalon
+"A Storm of Swords (A Song of Ice and Fire, #3)",George R.R. Martin,4.55,Fiction,2011.0,6.99,EUR,http://books.google.com/books/content?id=t1RrxL_sI70C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/62291.A_Storm_of_Swords
+The Boy in the Striped Pajamas,John Boyne,4.16,Young Adult Fiction,2010.0,7.99,EUR,http://books.google.com/books/content?id=FKMAmEWLim8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/39999.The_Boy_in_the_Striped_Pajamas
+Jonathan Livingston Seagull,Richard Bach,3.86,Fiction,2014.0,,,http://books.google.com/books/content?id=0lHRBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/71728.Jonathan_Livingston_Seagull
+Ulysses,James Joyce,3.76,Fiction,1998.0,,,http://books.google.com/books/content?id=WVofz29Hx9UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/338798.Ulysses
+"Jurassic Park (Jurassic Park, #1)",Michael Crichton,4.13,Performing Arts,2024.0,,,http://books.google.com/books/content?id=DuAsEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/40604658-jurassic-park
+"Fifty Shades of Grey (Fifty Shades, #1)",E.L. James,3.67,Fiction,2022.0,9.99,EUR,http://books.google.com/books/content?id=egN2EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/10818853-fifty-shades-of-grey
+"Beloved (Beloved Trilogy, #1)",Toni Morrison,3.98,Fiction,2012.0,3.99,EUR,http://books.google.com/books/content?id=I8SCD9KZv2EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6149.Beloved
+"The Lost Hero (The Heroes of Olympus, #1)",Rick Riordan,4.29,Juvenile Fiction,2014.0,,,http://books.google.com/books/content?id=oqlszQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/7736182-the-lost-hero
+"The Clan of the Cave Bear (Earth's Children, #1)",Jean M. Auel,4.1,Fiction,2011.0,,,http://books.google.com/books/content?id=ASvHBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/40611463-the-clan-of-the-cave-bear
+A Farewell to Arms,Ernest Hemingway,3.82,Fiction,2014.0,13.84,EUR,http://books.google.com/books/content?id=Z-FSAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10799.A_Farewell_to_Arms
+The Canterbury Tales,Geoffrey Chaucer,3.52,Poetry,2003.0,,,http://books.google.com/books/content?id=PtEy4VKRH_QC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/2696.The_Canterbury_Tales
+David Copperfield,Charles Dickens,4.04,Fiction,2025.0,,,http://books.google.com/books/content?id=7O1ZEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/58696.David_Copperfield
+A Little Princess,Frances Hodgson Burnett,4.23,Fiction,2014.0,,,http://books.google.com/books/content?id=JhO8AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/3008.A_Little_Princess
+"Cinder (The Lunar Chronicles, #1)",Marissa Meyer,4.12,Juvenile Fiction,2012.0,8.99,EUR,http://books.google.com/books/content?id=AwWIIQPRkGAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/36381037-cinder
+The World According to Garp,John Irving,4.11,Fiction,1981.0,,,http://books.google.com/books/content?id=icBO1tb76DsC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/7069.The_World_According_to_Garp
+Thirteen Reasons Why,Jay Asher,3.84,Young Adult Fiction,2016.0,10.11,EUR,http://books.google.com/books/content?id=3tFQDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/29844228-thirteen-reasons-why
+The Iliad / The Odyssey,Homer,4.07,Poetry,2020.0,3.99,EUR,http://books.google.com/books/content?id=b0gAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1375.The_Iliad_The_Odyssey
+His Dark Materials (His Dark Materials #1-3),Philip Pullman,4.29,Juvenile Fiction,2007.0,,,http://books.google.com/books/content?id=SMgrAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/18116.His_Dark_Materials
+The Silmarillion,J.R.R. Tolkien,4.03,Fiction,2011.0,6.99,EUR,http://books.google.com/books/content?id=05Cj67qkoaoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7332.The_Silmarillion
+"Howl’s Moving Castle (Howl’s Moving Castle, #1)",Diana Wynne Jones,4.29,Juvenile Fiction,2012.0,5.49,EUR,http://books.google.com/books/content?id=WxPDPOCF2_cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6294.Howl_s_Moving_Castle
+"Wicked: The Life and Times of the Wicked Witch of the West (The Wicked Years, #1)",Gregory Maguire,3.51,Fiction,2009.0,5.09,EUR,http://books.google.com/books/content?id=ycOjhHsqTwQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/37442.Wicked
+The Trial,Franz Kafka,3.94,Fiction,2012.0,7.07,EUR,http://books.google.com/books/content?id=ac58euQ72lIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/17690.The_Trial
+"Shōgun (Asian Saga, #1)",James Clavell,4.41,Fiction,2018.0,,,http://books.google.com/books/content?id=2wNuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/52382796-sh-gun
+Schindler’s List,Thomas Keneally,4.34,Fiction,2020.0,,,http://books.google.com/books/content?id=Yfj1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/375013.Schindler_s_List
+"Clockwork Prince (The Infernal Devices, #2)",Cassandra Clare,4.42,Young Adult Fiction,2013.0,32.63,EUR,http://books.google.com/books/content?id=-fHTJV9mAnEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10025305-clockwork-prince
+The Velveteen Rabbit,Margery Williams Bianco,4.31,Juvenile Fiction,2011.0,,,http://books.google.com/books/content?id=tyz8AM7Dj8EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/144974.The_Velveteen_Rabbit
+"Mockingjay (The Hunger Games, #3)",Suzanne Collins,4.12,Young Adult Fiction,2010.0,13.64,EUR,http://books.google.com/books/content?id=Iw_gHtk4ghYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7260188-mockingjay
+Extremely Loud & Incredibly Close,Jonathan Safran Foer,3.97,Fiction,2005.0,,,http://books.google.com/books/content?id=px2Qtftc-eUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/4588.Extremely_Loud_Incredibly_Close
+Man's Search for Meaning,Viktor E. Frankl,4.37,"Holocaust, Jewish (1939-1945)",2003.0,,,http://books.google.com/books/content?id=H8k4JLZu6AsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning
+"The Other Boleyn Girl (The Plantagenet and Tudor Novels, #9)",Philippa Gregory,4.09,Fiction,2007.0,,,http://books.google.com/books/content?id=dOvim4cfr48C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/37470.The_Other_Boleyn_Girl
+"The Silence of the Lambs  (Hannibal Lecter, #2)",Thomas  Harris,4.26,Fiction,2009.0,8.5,EUR,http://books.google.com/books/content?id=1d3XWXXxnEsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/23807.The_Silence_of_the_Lambs
+The Sun Also Rises,Ernest Hemingway,3.79,Fiction,2022.0,,,http://books.google.com/books/content?id=zmJWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/3876.The_Sun_Also_Rises
+The Green Mile,Stephen        King,4.49,Fiction,2011.0,9.99,EUR,http://books.google.com/books/content?id=b2l6DZRKW_cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/11566.The_Green_Mile
+"Fallen (Fallen, #1)",Lauren Kate,3.72,,2015.0,,,,https://www.goodreads.com/book/show/6487308-fallen
+"Last Sacrifice (Vampire Academy, #6)",Richelle Mead,4.37,Young Adult Fiction,2010.0,10.11,EUR,http://books.google.com/books/content?id=LtYDKKYw3wkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6527740-last-sacrifice
+A Confederacy of Dunces,John Kennedy Toole,3.89,Classical fiction,2006.0,,,http://books.google.com/books/content?id=lX5JPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/310612.A_Confederacy_of_Dunces
+The Lord of the Rings,J.R.R. Tolkien,4.54,Fiction,2024.0,,,http://books.google.com/books/content?id=LRD9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/33.The_Lord_of_the_Rings
+The Screwtape Letters,C.S. Lewis,4.27,Literary Collections,2023.0,,,http://books.google.com/books/content?id=vkroEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/8130077-the-screwtape-letters
+"Crooked Kingdom (Six of Crows, #2)",Leigh Bardugo,4.57,Young Adult Fiction,2016.0,5.49,EUR,http://books.google.com/books/content?id=36UwCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/22299763-crooked-kingdom
+The Crucible,Arthur Miller,3.61,Drama,1976.0,8.08,EUR,http://books.google.com/books/content?id=KFZ3CwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/17250.The_Crucible
+Cat’s Cradle,Kurt Vonnegut Jr.,4.15,,1973.0,,,,https://www.goodreads.com/book/show/135479.Cat_s_Cradle
+The Secret Magdalene,Ki Longfellow,4.14,Fiction,2007.0,5.04,EUR,http://books.google.com/books/content?id=bWO7wgDgtqwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/514811.The_Secret_Magdalene
+Misery,Stephen        King,4.23,Fiction,2016.0,9.88,EUR,http://books.google.com/books/content?id=QbUACwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10614.Misery
+The Wind in the Willows,Kenneth Grahame,4.02,Fiction,2010.0,6.11,EUR,http://books.google.com/books/content?id=3iiQDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5659.The_Wind_in_the_Willows
+A Light in the Attic,Shel Silverstein,4.36,Juvenile Fiction,2020.0,12.99,EUR,http://books.google.com/books/content?id=5w-qDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/30118.A_Light_in_the_Attic
+"Spirit Bound (Vampire Academy, #5)",Richelle Mead,4.32,Young Adult Fiction,2010.0,8.99,EUR,http://books.google.com/books/content?id=8FswGzEr26QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6479259-spirit-bound
+The Phantom of the Opera,Gaston Leroux,3.96,Juvenile Fiction,2025.0,7.9,EUR,http://books.google.com/books/content?id=bNUnEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/480204.The_Phantom_of_the_Opera
+"A Clash of Kings  (A Song of Ice and Fire, #2)",George R.R. Martin,4.42,Fiction,2003.0,8.09,EUR,http://books.google.com/books/content?id=ZfiREZrremoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10572.A_Clash_of_Kings
+"City of Fallen Angels (The Mortal Instruments, #4)",Cassandra Clare,4.07,Juvenile Fiction,2011.0,,,http://books.google.com/books/content?id=XEouBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6752378-city-of-fallen-angels
+The Hiding Place: The Triumphant True Story of Corrie Ten Boom,Corrie ten Boom,4.48,History,1974.0,,,http://books.google.com/books/content?id=bAdGjSPajlIC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/561909.The_Hiding_Place
+The God of Small Things,Arundhati Roy,3.96,Fiction,2002.0,,,http://books.google.com/books/content?id=0mhCpXdzLt4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/9777.The_God_of_Small_Things
+Blindness,José Saramago,4.18,Drama,1999.0,,,http://books.google.com/books/content?id=9ab5g1_ghuQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/40495148-blindness
+"Ella Enchanted (Ella Enchanted, #1)",Gail Carson Levine,4.02,Juvenile Fiction,2004.0,,,http://books.google.com/books/content?id=yA6ffwWxuk8C&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/24337.Ella_Enchanted
+The House of the Spirits,Isabel Allende,4.29,Fiction,2015.0,13.84,EUR,http://books.google.com/books/content?id=EbypCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/9328.The_House_of_the_Spirits
+"The Way of Kings (The Stormlight Archive, #1)",Brandon Sanderson,4.66,Fiction,2010.0,9.27,EUR,http://books.google.com/books/content?id=OHclhBVv-X4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7235533-the-way-of-kings
+The Chain Between Worlds (The Lost Artefacts #1),Johnathon Nicolaou,4.42,,2023.0,,,http://books.google.com/books/content?id=fZCezwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/60288648-the-chain-between-worlds
+Girl with a Pearl Earring,Tracy Chevalier,3.93,Fiction,2009.0,6.29,EUR,http://books.google.com/books/content?id=2XVt8Zrpy0kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring
+"Uglies (Uglies, #1)",Scott Westerfeld,3.84,Juvenile Fiction,2011.0,,,http://books.google.com/books/content?id=6hrbAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/24770.Uglies
+The Wind-Up Bird Chronicle,Haruki Murakami,4.14,Fiction,2011.0,8.99,EUR,http://books.google.com/books/content?id=-0tzfDCatVEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/11275.The_Wind_Up_Bird_Chronicle
+Marley and Me: Life and Love With the World’s Worst Dog,John Grogan,4.14,Biography & Autobiography,2006.0,,,http://books.google.com/books/content?id=enqBRs-kQUAC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/12691.Marley_and_Me
+Norwegian Wood,Haruki Murakami,3.99,Fiction,2011.0,8.99,EUR,http://books.google.com/books/content?id=kd1XlWVAIWQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/11297.Norwegian_Wood
+The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,4.19,Fiction,2009.0,10.04,EUR,http://books.google.com/books/content?id=bz_bYuaxRWsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/39832183-the-guernsey-literary-and-potato-peel-pie-society
+Speak,Laurie Halse Anderson,4.05,Juvenile Fiction,2019.0,4.99,EUR,http://books.google.com/books/content?id=3GqlDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/39280444-speak
+Paper Towns,John Green,3.7,Young Adult Fiction,2010.0,10.04,EUR,http://books.google.com/books/content?id=4NEcg6puG4AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6442769-paper-towns
+She’s Come Undone,Wally Lamb,3.92,Fiction,2011.0,13.84,EUR,http://books.google.com/books/content?id=o447RLwrcgIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5203.She_s_Come_Undone
+"Shiver (The Wolves of Mercy Falls, #1)",Maggie Stiefvater,3.76,Juvenile Fiction,2011.0,,,http://books.google.com/books/content?id=Jh47BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6068551-shiver
+The Shack: Where Tragedy Confronts Eternity,William Paul Young,3.84,Fiction,2008.0,,,http://books.google.com/books/content?id=cp_hswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/40874325-the-shack
+"Marked (House of Night, #1)",P.C. Cast,3.82,Young Adult Fiction,2010.0,10.83,EUR,http://books.google.com/books/content?id=z1k50JF7d3MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/30183.Marked
+Fear and Loathing in Las Vegas: A Savage Journey to the Heart of the American Dream,Hunter S. Thompson,4.06,Biography & Autobiography,2010.0,9.09,EUR,http://books.google.com/books/content?id=R11qaqN4jzQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7745.Fear_and_Loathing_in_Las_Vegas
+Kafka on the Shore,Haruki Murakami,4.12,Fiction,2011.0,8.99,EUR,http://books.google.com/books/content?id=L6AtuutQHpwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/4929.Kafka_on_the_Shore
+The Sound and the Fury,William Faulkner,3.86,Fiction,2022.0,,,http://books.google.com/books/content?id=iHx_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10975.The_Sound_and_the_Fury
+The Complete Calvin and Hobbes,Bill Watterson,4.81,Comics & Graphic Novels,2005.0,,,http://books.google.com/books/content?id=wmjG5g4Yx7gC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/24812.The_Complete_Calvin_and_Hobbes
+For Whom the Bell Tolls,Ernest Hemingway,3.99,Fiction,2014.0,14.83,EUR,http://books.google.com/books/content?id=TdVQAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/46170.For_Whom_the_Bell_Tolls
+"The Cruel Prince (The Folk of the Air, #1)",Holly Black,4.01,Young Adult Fiction,2018.0,9.49,EUR,http://books.google.com/books/content?id=WFAsDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/26032825-the-cruel-prince
+The Complete Sherlock Holmes,Arthur Conan Doyle,4.51,Fiction,2014.0,2.59,EUR,http://books.google.com/books/content?id=5yx2EQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/188572.The_Complete_Sherlock_Holmes
+Othello,William Shakespeare,3.89,,1888.0,,,,https://www.goodreads.com/book/show/12996.Othello
+"Shatter Me (Shatter Me, #1)",Tahereh Mafi,3.84,Young Adult Fiction,2023.0,0.99,EUR,http://books.google.com/books/content?id=vtXPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10429045-shatter-me
+The Idiot,Fyodor Dostoevsky,4.21,Fiction,1998.0,,,http://books.google.com/books/content?id=5fyuj9x9UZIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/12505.The_Idiot
+Island of the Blue Dolphins,Scott O'Dell,3.88,Juvenile Fiction,1990.0,,,http://books.google.com/books/content?id=8oV5m9phpoYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/41044096-island-of-the-blue-dolphins
+Stranger in a Strange Land,Robert A. Heinlein,3.92,Fiction,2014.0,3.49,EUR,http://books.google.com/books/content?id=gnwETwF8Zb4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land
+"Inkheart (Inkworld, #1)",Cornelia Funke,3.93,Juvenile Fiction,2024.0,,,http://books.google.com/books/content?id=KNXlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/28194.Inkheart
+Roots: The Saga of an American Family,Alex Haley,4.45,History,2016.0,11.99,EUR,http://books.google.com/books/content?id=aHZKDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/546018.Roots
+Into the Wild,Jon Krakauer,4.02,Biography & Autobiography,2018.0,12.99,EUR,http://books.google.com/books/content?id=m9BiDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1845.Into_the_Wild
+"Wonder (Wonder, #1)",R.J. Palacio,4.36,Readers,1955.0,,,http://books.google.com/books/content?id=tVNdrajjM4cC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/11387515-wonder
+"Neverwhere (London Below, #1)",Neil Gaiman,4.16,Fiction,2010.0,4.99,EUR,http://books.google.com/books/content?id=D7UlOLjDl8QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/14497.Neverwhere
+East of Eden,John Steinbeck,4.43,Fiction,2002.0,,,http://books.google.com/books/content?id=OPy6E5ZhXs0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/4406.East_of_Eden
+"The Girl Who Kicked the Hornet’s Nest (Millennium, #3)",Stieg Larsson,4.24,Comics & Graphic Novels,2017.0,5.87,EUR,http://books.google.com/books/content?id=SSNADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6892870-the-girl-who-kicked-the-hornet-s-nest
+"The Vampire Lestat (The Vampire Chronicles, #2)",Anne Rice,4.11,Fiction,2011.0,11.13,EUR,http://books.google.com/books/content?id=4Ley0jjlZ-4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/43814.The_Vampire_Lestat
+Never Let Me Go,Kazuo Ishiguro,3.85,Fiction,2009.0,11.99,EUR,http://books.google.com/books/content?id=JAzxznMKiq4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6334.Never_Let_Me_Go
+King Lear,William Shakespeare,3.91,Drama,2010.0,,,http://books.google.com/books/content?id=1XtaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/12938.King_Lear
+The Things They Carried,Tim O'Brien,4.14,Fiction,2015.0,,,http://books.google.com/books/content?id=4hFhCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/133518.The_Things_They_Carried
+American Psycho,Bret Easton Ellis,3.8,Horror fiction,2012.0,,,http://books.google.com/books/content?id=cF51tQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/28676.American_Psycho
+"Ready Player One (Ready Player One, #1)",Ernest Cline,4.23,Puzzles,2012.0,,,http://books.google.com/books/content?id=x7P3LQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/9969571-ready-player-one
+"A Court of Thorns and Roses (A Court of Thorns and Roses, #1)",Sarah J. Maas,4.16,Fiction,2022.0,51.51,EUR,http://books.google.com/books/content?id=dt90EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/16096824-a-court-of-thorns-and-roses
+"Mistborn: The Final Empire (Mistborn, #1)",Brandon Sanderson,4.49,Fiction,2010.0,7.72,EUR,http://books.google.com/books/content?id=t_ZYYXZq4RgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/68428.Mistborn
+"Delirium (Delirium, #1)",Lauren Oliver,3.95,Alcoholic psychoses,1884.0,,,http://books.google.com/books/content?id=ziZG4K--2rUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/11614718-delirium
+White Oleander,Janet Fitch,4.0,Fiction,2013.0,3.99,EUR,http://books.google.com/books/content?id=SkophXOJL44C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/32234.White_Oleander
+"Foundation (Foundation, #1)",Isaac Asimov,4.17,,2017.0,,,,https://www.goodreads.com/book/show/29579.Foundation
+"Beautiful Disaster (Beautiful, #1)",Jamie McGuire,4.0,Fiction,2023.0,,,,https://www.goodreads.com/book/show/11505797-beautiful-disaster
+"The Mark of Athena (The Heroes of Olympus, #3)",Rick Riordan,4.47,Juvenile Fiction,2012.0,8.99,EUR,http://books.google.com/books/content?id=4NuJZT8XLgQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/12127750-the-mark-of-athena
+"The Son of Neptune (The Heroes of Olympus, #2)",Rick Riordan,4.4,Juvenile Fiction,2019.0,,,http://books.google.com/books/content?id=M-vOwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/9520360-the-son-of-neptune
+Uncle Tom’s Cabin,Harriet Beecher Stowe,3.92,Slavery,2002.0,,,,https://www.goodreads.com/book/show/46787.Uncle_Tom_s_Cabin
+Blood River: A Journey to Africa’s Broken Heart,Tim Butcher,3.98,Travel,2010.0,10.99,EUR,http://books.google.com/books/content?id=OBT3Ajh7aG4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2184798.Blood_River
+All the Light We Cannot See,Anthony Doerr,4.31,Fiction,2014.0,,,http://books.google.com/books/content?id=_AZ_AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see
+"The Once and Future King (The Once and Future King, #1-5)",T.H. White,4.07,Fiction,2022.0,,,http://books.google.com/books/content?id=apmCEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/43545.The_Once_and_Future_King
+Midnight Sun [2008 Draft],Stephenie Meyer,4.01,Fiction,2022.0,,,http://books.google.com/books/content?id=izw6zwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/4502877-midnight-sun-2008-draft
+James and the Giant Peach,Roald Dahl,4.04,Juvenile Fiction,2024.0,8.99,EUR,http://books.google.com/books/content?id=58fLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6689.James_and_the_Giant_Peach
+The Martian,Andy Weir,4.42,Astronauts,2014.0,,,http://books.google.com/books/content?id=P7g_rgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/18007564-the-martian
+Paradise Lost,John Milton,3.85,Poetry,2003.0,,,http://books.google.com/books/content?id=kbO9UPxIyVAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/15997.Paradise_Lost
+I Know This Much Is True,Wally Lamb,4.21,Fiction,1998.0,,,http://books.google.com/books/content?id=gXk5wYNESPsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/227711.I_Know_This_Much_Is_True
+"A Good Girl's Guide to Murder (A Good Girl's Guide to Murder, #1)",Holly  Jackson,4.29,Young Adult Fiction,2021.0,,,http://books.google.com/books/content?id=wrUlEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/40916679-a-good-girl-s-guide-to-murder
+"All Creatures Great and Small (All Creatures Great and Small, #1-2)",James Herriot,4.35,,1972.0,,,http://books.google.com/books/content?id=Y_YBeZ8s0-0C&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/32085.All_Creatures_Great_and_Small
+The Time Machine,H.G. Wells,3.89,Education,2019.0,,,http://books.google.com/books/content?id=aPOKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2493.The_Time_Machine
+Candide,Voltaire,3.76,,2018.0,,,http://books.google.com/books/content?id=kzN0vgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/19380.Candide
+The Complete Works,William Shakespeare,4.48,Literary Collections,2005.0,19.38,EUR,http://books.google.com/books/content?id=Jmy0ZWUA2ScC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/569564.The_Complete_Works
+Invisible Man,Ralph Ellison,3.92,Fiction,2010.0,,,http://books.google.com/books/content?id=iSrI-BQqFf0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/16981.Invisible_Man
+"Heidi (Heidi, #1-2)",Johanna Spyri,4.04,,1982.0,,,,https://www.goodreads.com/book/show/93.Heidi
+The Historian,Elizabeth Kostova,3.8,Fiction,2005.0,9.99,EUR,http://books.google.com/books/content?id=ZXo5AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/30236962-the-historian
+Flow Down Like Silver,Ki Longfellow,4.01,Fiction,2009.0,,,http://books.google.com/books/content?id=v4-QQAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/6801755-flow-down-like-silver
+"Me Before You (Me Before You, #1)",Jojo Moyes,4.26,Fiction,2012.0,,,http://books.google.com/books/content?id=rTYEyWrXLO0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/17347634-me-before-you
+The Thirteenth Tale,Diane Setterfield,3.98,Fiction,2007.0,,,http://books.google.com/books/content?id=9s9cfPrg4z0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/40440.The_Thirteenth_Tale
+"The Wise Man's Fear (The Kingkiller Chronicle, #2)",Patrick Rothfuss,4.55,Fiction,2011.0,8.25,EUR,http://books.google.com/books/content?id=6FmJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/1215032.The_Wise_Man_s_Fear
+Hamlet,William Shakespeare,4.03,,1952.0,,,,https://www.goodreads.com/book/show/1420.Hamlet
+"Lamb: The Gospel According to Biff, Christ’s Childhood Pal",Christopher Moore,4.23,Fiction,2002.0,,,http://books.google.com/books/content?id=3jRLPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/28881.Lamb
+"City of Lost Souls (The Mortal Instruments, #5)",Cassandra Clare,4.21,,2016.0,,,,https://www.goodreads.com/book/show/8755776-city-of-lost-souls
+Leaves of Grass,Walt Whitman,4.11,American poetry,1884.0,,,http://books.google.com/books/content?id=o_EWAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/27494.Leaves_of_Grass
+"Walden or, Life in the Woods",Henry David Thoreau,3.77,,2018.0,,,http://books.google.com/books/content?id=KhA-tAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/16902.Walden_or_Life_in_the_Woods
+"Are You There God? It’s Me, Margaret",Judy Blume,3.95,Juvenile Fiction,2001.0,,,http://books.google.com/books/content?id=PVSYMtZcpWgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/37732.Are_You_There_God_It_s_Me_Margaret
+"Graceling (Graceling Realm, #1)",Kristin Cashore,4.06,Young Adult Fiction,2021.0,,,http://books.google.com/books/content?id=IDQKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/3236307-graceling
+Different Seasons,Stephen        King,4.36,Fiction,2016.0,,,http://books.google.com/books/content?id=Hs3NCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/39662.Different_Seasons
+The Complete Maus,Art Spiegelman,4.58,Comics & Graphic Novels,1996.0,,,http://books.google.com/books/content?id=ASajL1zsziAC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/15195.The_Complete_Maus
+"Fourth Wing (The Empyrean, #1)",Rebecca Yarros,4.57,Study Aids,,2.44,EUR,http://books.google.com/books/content?id=gK9yEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/61431922-fourth-wing
+Room,Emma Donoghue,4.08,Drama,2023.0,12.56,EUR,http://books.google.com/books/content?id=j4yzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/31685789-room
+The Cider House Rules,John Irving,4.17,Fiction,2001.0,,,http://books.google.com/books/content?id=09p5QbUcgCoC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/4687.The_Cider_House_Rules
+Mrs. Dalloway,Virginia Woolf,3.78,Foreign Language Study,2011.0,8.37,EUR,http://books.google.com/books/content?id=hi4aAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/14942.Mrs_Dalloway
+Fangirl,Rainbow Rowell,3.94,Comics & Graphic Novels,2025.0,5.99,EUR,http://books.google.com/books/content?id=6cxUEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/16068905-fangirl
+"Legend (Legend, #1)",Marie Lu,4.15,Juvenile Nonfiction,2014.0,,,http://books.google.com/books/content?id=r8ERAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/9275658-legend
+"Ignite Me (Shatter Me, #3)",Tahereh Mafi,4.45,Juvenile Fiction,2014.0,,,http://books.google.com/books/content?id=3fWmAgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/13188676-ignite-me
+Fried Green Tomatoes at the Whistle Stop Cafe,Fannie Flagg,4.28,Alabama,1987.0,,,http://books.google.com/books/content?id=8yhH7Qs4eRkC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/9375.Fried_Green_Tomatoes_at_the_Whistle_Stop_Cafe
+Sophie’s World,Jostein Gaarder,3.97,Fiction,2010.0,4.99,EUR,http://books.google.com/books/content?id=J8nE3B5lD9AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10959.Sophie_s_World
+"The Hound of the Baskervilles (Sherlock Holmes, #5)",Arthur Conan Doyle,4.14,Fiction,2011.0,0.99,EUR,http://books.google.com/books/content?id=DhyeLX_ModgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/8921.The_Hound_of_the_Baskervilles
+Do Androids Dream of Electric Sheep?,Philip K. Dick,4.09,Fiction,2008.0,14.16,EUR,http://books.google.com/books/content?id=jUX8N9kiCiQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep
+The Virgin Suicides,Jeffrey Eugenides,3.78,Fiction,1993.0,11.47,EUR,http://books.google.com/books/content?id=Pf1xhp6u-w0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10956.The_Virgin_Suicides
+"Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante, #1)",Benjamin Alire Sáenz,4.29,Young Adult Fiction,2012.0,10.87,EUR,http://books.google.com/books/content?id=hfAigqVXjAcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe
+The Awakening,Kate Chopin,3.69,Fiction,1992.0,,,http://books.google.com/books/content?id=KFyuAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/58345.The_Awakening
+The Graveyard Book,Neil Gaiman,4.15,Juvenile Fiction,2009.0,6.29,EUR,http://books.google.com/books/content?id=eu2z740u7QwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2213661.The_Graveyard_Book
+A Little Life,Hanya Yanagihara,4.28,Fiction,2025.0,,,http://books.google.com/books/content?id=0IQd0QEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/22822858-a-little-life
+Black Beauty,Anna Sewell,4.0,Juvenile Fiction,2015.0,3.99,EUR,http://books.google.com/books/content?id=WDXKDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/3685.Black_Beauty
+"Things Fall Apart (The African Trilogy, #1)",Chinua Achebe,3.74,Fiction,1986.0,,,http://books.google.com/books/content?id=mKhZAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/37781.Things_Fall_Apart
+Stardust,Neil Gaiman,4.1,Adventure stories,2007.0,,,http://books.google.com/books/content?id=UHJUJAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/16793.Stardust
+The Monster at the End of this Book,Jon Stone,4.46,Juvenile Fiction,2013.0,2.66,EUR,http://books.google.com/books/content?id=ERTPzj1SGXYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/44186.The_Monster_at_the_End_of_this_Book
+Middlemarch,George Eliot,4.03,Fiction,2022.0,4.27,EUR,http://books.google.com/books/content?id=4kpmEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/19089.Middlemarch
+"Fifty Shades Darker (Fifty Shades, #2)",E.L. James,3.83,Fiction,2017.0,,,http://books.google.com/books/content?id=dGGTEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/11857408-fifty-shades-darker
+Number the Stars,Lois Lowry,4.19,Juvenile Fiction,1989.0,5.19,EUR,http://books.google.com/books/content?id=V2Nlg8AWg2AC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/47281.Number_the_Stars
+The Prince of Tides,Pat Conroy,4.26,,2004.0,,,,https://www.goodreads.com/book/show/16735.The_Prince_of_Tides
+Sophie’s Choice,William Styron,4.17,Fiction,2010.0,23.53,EUR,http://books.google.com/books/content?id=-YhTDbmcf4UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/228560.Sophie_s_Choice
+"Dead Until Dark (Sookie Stackhouse, #1)",Charlaine Harris,3.97,Waitresses,2008.0,,,,https://www.goodreads.com/book/show/301082.Dead_Until_Dark
+"A Time to Kill (Jake Brigance, #1)",John Grisham,4.12,Fiction,2010.0,8.99,EUR,http://books.google.com/books/content?id=Xp39K0c0IaEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/32542.A_Time_to_Kill
+"The Magician’s Nephew (Chronicles of Narnia, #6)",C.S. Lewis,4.05,Fiction,2022.0,,,http://books.google.com/books/content?id=2ot_EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/65605.The_Magician_s_Nephew
+V for Vendetta,Alan             Moore,4.26,Comics & Graphic Novels,2020.0,15.99,EUR,http://books.google.com/books/content?id=gmrNDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5805.V_for_Vendetta
+War and Peace,Leo Tolstoy,4.17,Fiction,2004.0,,,http://books.google.com/books/content?id=s-OQ2yHDIMQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/656.War_and_Peace
+"Bridget Jones’s Diary (Bridget Jones, #1)",Helen Fielding,3.81,Fiction,2021.0,15.99,EUR,http://books.google.com/books/content?id=dF4TEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/227443.Bridget_Jones_s_Diary
+The Art of Racing in the Rain,Garth Stein,4.23,Fiction,2009.0,9.99,EUR,http://books.google.com/books/content?id=s8zIH7dnYCsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/3153910-the-art-of-racing-in-the-rain
+Eleanor & Park,Rainbow Rowell,3.93,,2019.0,,,http://books.google.com/books/content?id=-bGqywEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/15745753-eleanor-park
+Beowulf,Beowulf Poet,3.5,Poetry,2015.0,2.72,EUR,http://books.google.com/books/content?id=kC5zBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/52357.Beowulf
+White Fang,Jack London,4.03,,2020.0,,,http://books.google.com/books/content?id=V18JzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/43035.White_Fang
+Franny and Zooey,J.D. Salinger,3.96,Fiction,2019.0,8.99,EUR,http://books.google.com/books/content?id=nZunDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5113.Franny_and_Zooey
+"Harry Potter Series Box Set (Harry Potter, #1-7)",J.K. Rowling,4.73,Juvenile Fiction,2002.0,,,http://books.google.com/books/content?id=QCp6PQAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/862041.Harry_Potter_Series_Box_Set
+"Allegiant (Divergent, #3)",Veronica Roth,3.6,Young Adult Fiction,2013.0,5.49,EUR,http://books.google.com/books/content?id=v5MH3ER4SWEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/18710190-allegiant
+"The House of Hades (The Heroes of Olympus, #4)",Rick Riordan,4.57,Juvenile Fiction,2024.0,14.99,EUR,http://books.google.com/books/content?id=ncTnEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/12127810-the-house-of-hades
+The Witches,Roald Dahl,4.18,Juvenile Fiction,2007.0,7.99,EUR,http://books.google.com/books/content?id=GD--o2F8IcoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6327.The_Witches
+Love You Forever,Robert Munsch,4.38,Juvenile Nonfiction,2003.0,,,http://books.google.com/books/content?id=7ep09WAFbDwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/310259.Love_You_Forever
+"The Gunslinger (The Dark Tower, #1)",Stephen        King,3.91,Fiction,2017.0,,,http://books.google.com/books/content?id=wOkqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/43615.The_Gunslinger
+A Short History of Nearly Everything,Bill Bryson,4.22,Large print books,2003.0,,,http://books.google.com/books/content?id=SYmUPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything
+"The Eye of the World (The Wheel of Time, #1)",Robert Jordan,4.19,Fiction,2000.0,8.5,EUR,http://books.google.com/books/content?id=1PgKPuFIz1kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/228665.The_Eye_of_the_World
+"If I Stay (If I Stay, #1)",Gayle Forman,3.91,Young Adult Fiction,2009.0,,,http://books.google.com/books/content?id=YtIAA_LS86kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/4374400-if-i-stay
+Gulliver’s Travels,Jonathan Swift,3.59,Fiction,2004.0,,,http://books.google.com/books/content?id=QHRFskXOoocC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7733.Gulliver_s_Travels
+The Complete Novels,Jane Austen,4.57,Fiction,2006.0,14.15,EUR,http://books.google.com/books/content?id=N_JhbNdse7cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/14905.The_Complete_Novels
+"The Power of One (The Power of One, #1)",Bryce Courtenay,4.36,Budget,1967.0,,,http://books.google.com/books/content?id=28RF2T8fcUIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/122.The_Power_of_One
+"Heir of Fire (Throne of Glass, #3)",Sarah J. Maas,4.45,Fiction,2014.0,10.04,EUR,http://books.google.com/books/content?id=i49CAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/20613470-heir-of-fire
+Tuck Everlasting,Natalie Babbitt,3.91,Juvenile Fiction,2010.0,,,http://books.google.com/books/content?id=4hTN-IEZy4kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/84981.Tuck_Everlasting
+11/22/63,Stephen        King,4.35,Fiction,2011.0,11.86,EUR,http://books.google.com/books/content?id=2pl0YOznbxcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10644930-11-22-63
+"It Ends with Us (It Ends with Us, #1)",Colleen Hoover,4.09,Fiction,2016.0,11.86,EUR,http://books.google.com/books/content?id=peTPCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/27362503-it-ends-with-us
+The Grapes of Wrath,John Steinbeck,4.02,American fiction,1998.0,,,http://books.google.com/books/content?id=yDZHfxUCUqwC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/18114322-the-grapes-of-wrath
+"A Child Called ""It"" (Dave Pelzer, #1)",Dave Pelzer,4.14,Biography & Autobiography,1995.0,,,http://books.google.com/books/content?id=doyjAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/60748.A_Child_Called_It_
+’Salem’s Lot,Stephen        King,4.1,Fiction,2008.0,6.49,EUR,http://books.google.com/books/content?id=7_4NgDQhtDYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/11590._Salem_s_Lot
+"Fifty Shades Freed (Fifty Shades, #3)",E.L. James,3.83,Fiction,2012.0,,,http://books.google.com/books/content?id=nDDCwAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/13536860-fifty-shades-freed
+Bel Canto,Ann Patchett,3.94,Fiction,2009.0,9.99,EUR,http://books.google.com/books/content?id=mDURpw3IjOIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5826.Bel_Canto
+Inferno,Dante Alighieri,4.03,,2004.0,,,,https://www.goodreads.com/book/show/15645.Inferno
+Where the Crawdads Sing,Delia Owens,4.37,Fiction,2018.0,5.99,EUR,http://books.google.com/books/content?id=jVB1DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing
+A Portrait of the Artist as a Young Man,James Joyce,3.64,Fiction,1992.0,,,http://books.google.com/books/content?id=C_rPXanc_HAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/7588.A_Portrait_of_the_Artist_as_a_Young_Man
+Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,3.83,London (England),1886.0,,,http://books.google.com/books/content?id=xZHv4CWgWaEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/51496.Dr_Jekyll_and_Mr_Hyde
+Circe,Madeline Miller,4.22,Young Adult Fiction,2022.0,6.58,EUR,http://books.google.com/books/content?id=dyikEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/35959740-circe
+Cloud Atlas,David  Mitchell,4.01,Fiction,2008.0,5.49,EUR,http://books.google.com/books/content?id=SmlhCVt1t9cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/49628.Cloud_Atlas
+The Hunchback of Notre-Dame,Victor Hugo,4.02,Fiction,2019.0,,,http://books.google.com/books/content?id=zCZqAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/30597.The_Hunchback_of_Notre_Dame
+Tao Te Ching,Lao Tzu,4.29,,2023.0,,,,https://www.goodreads.com/book/show/67896.Tao_Te_Ching
+القرآن الكريم,Anonymous,4.38,,,,,,https://www.goodreads.com/book/show/646462._
+Cold Mountain,Charles Frazier,3.89,Fiction,2023.0,,,http://books.google.com/books/content?id=L9ve3Zz__1cC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/10920.Cold_Mountain
+The Tell-Tale Heart and Other Writings,Edgar Allan Poe,4.19,Fiction,2015.0,,,http://books.google.com/books/content?id=bEmMCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/391729.The_Tell_Tale_Heart_and_Other_Writings
+As I Lay Dying,William Faulkner,3.72,Fiction,2013.0,8.99,EUR,http://books.google.com/books/content?id=dIahmzXpEEQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/77013.As_I_Lay_Dying
+Go Ask Alice,Beatrice Sparks,3.74,Juvenile Nonfiction,2006.0,,,http://books.google.com/books/content?id=pf1iEQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/46799.Go_Ask_Alice
+Mansfield Park,Jane Austen,3.86,,1906.0,,,,https://www.goodreads.com/book/show/45032.Mansfield_Park
+"Eldest (The Inheritance Cycle, #2)",Christopher Paolini,4.05,Juvenile Fiction,2009.0,,,http://books.google.com/books/content?id=FxsdAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/45978.Eldest
+The BFG,Roald Dahl,4.23,Juvenile Fiction,1998.0,,,http://books.google.com/books/content?id=sf4lzGnXuDEC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/6319.The_BFG
+The Martian Chronicles,Ray Bradbury,4.16,Fiction,2012.0,,,http://books.google.com/books/content?id=HzQXlPS48PQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/76778.The_Martian_Chronicles
+A Separate Peace,John Knowles,3.6,Drama,1988.0,,,http://books.google.com/books/content?id=oepv15kpMMIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5148.A_Separate_Peace
+"Brisingr (The Inheritance Cycle, #3)",Christopher Paolini,4.11,Young Adult Fiction,2010.0,,,http://books.google.com/books/content?id=EZqODQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/2248573.Brisingr
+"Red Queen (Red Queen, #1)",Victoria Aveyard,3.98,Fiction,2015.0,4.49,EUR,http://books.google.com/books/content?id=EPO9BQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/22328546-red-queen
+"Dark Lover (Black Dagger Brotherhood, #1)",J.R. Ward,4.15,Fiction,2005.0,8.31,EUR,http://books.google.com/books/content?id=If3o_UU9s24C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/42899.Dark_Lover
+Steppenwolf,Hermann Hesse,4.13,Foreign Language Study,2017.0,6.99,EUR,http://books.google.com/books/content?id=IrB3DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/16631.Steppenwolf
+"Beautiful Creatures (Caster Chronicles, #1)",Kami Garcia,3.77,Young Adult Fiction,2012.0,7.99,EUR,http://books.google.com/books/content?id=ubc5AQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6304335-beautiful-creatures
+"Blood Meridian, or, the Evening Redness in the West",Cormac McCarthy,4.15,Fiction,2010.0,13.15,EUR,http://books.google.com/books/content?id=s-QzccStux4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/394535.Blood_Meridian_or_the_Evening_Redness_in_the_West
+The Invisible Life of Addie LaRue,V.E. Schwab,4.17,Fiction,2020.0,11.49,EUR,http://books.google.com/books/content?id=eof4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue
+"Miss Peregrine's Home for Peculiar Children (Miss Peregrine's Peculiar Children, #1)",Ransom Riggs,3.92,Young Adult Fiction,2011.0,9.18,EUR,http://books.google.com/books/content?id=pkGqafH1V40C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children
+Robinson Crusoe,Daniel Defoe,3.68,,1959.0,,,,https://www.goodreads.com/book/show/2932.Robinson_Crusoe
+The Remains of the Day,Kazuo Ishiguro,4.14,Fiction,2009.0,11.99,EUR,http://books.google.com/books/content?id=MSurBex2xcUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/28921.The_Remains_of_the_Day
+"Obsidian (Lux, #1)",Jennifer L. Armentrout,4.13,Young Adult Fiction,2014.0,3.49,EUR,http://books.google.com/books/content?id=I7GnAwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/12578077-obsidian
+"Stargirl (Stargirl, #1)",Jerry Spinelli,3.77,,2014.0,,,http://books.google.com/books/content?id=S4isoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/22232.Stargirl
+The Amazing Adventures of Kavalier & Clay,Michael Chabon,4.19,Fiction,2012.0,14.16,EUR,http://books.google.com/books/content?id=3T61gEg6WhwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/3985.The_Amazing_Adventures_of_Kavalier_Clay
+Coraline,Neil Gaiman,4.13,,2009.0,,,http://books.google.com/books/content?id=bGFhPwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/17061.Coraline
+"The Amber Spyglass (His Dark Materials, #3)",Philip Pullman,4.11,Juvenile Fiction,2007.0,,,http://books.google.com/books/content?id=7EglAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/18122.The_Amber_Spyglass
+"City of Heavenly Fire (The Mortal Instruments, #6)",Cassandra Clare,4.38,,2016.0,,,,https://www.goodreads.com/book/show/8755785-city-of-heavenly-fire
+The Plague,Albert Camus,4.02,,1977.0,,,http://books.google.com/books/content?id=_swNAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/11989.The_Plague
+Doctor Zhivago,Boris Pasternak,4.01,Fiction,2011.0,,,http://books.google.com/books/content?id=ZPCMEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/130440.Doctor_Zhivago
+زندگی مه آلود پریا,سید مرتضی مصطفوی,3.34,,2015.0,,,,https://www.goodreads.com/book/show/40937505
+Dear John,Nicholas Sparks,4.04,Fiction,2010.0,3.49,EUR,http://books.google.com/books/content?id=LWuNAB3HtVgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5526.Dear_John
+"Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values (Phaedrus, #1)",Robert M. Pirsig,3.78,Philosophy,2021.0,2.99,EUR,http://books.google.com/books/content?id=0C41EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance
+The Firm,John Grisham,4.06,Government investigators,1993.0,,,http://books.google.com/books/content?id=z7e7qtERfH0C&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/5358.The_Firm
+The English Patient,Michael Ondaatje,3.86,Fiction,2009.0,,,http://books.google.com/books/content?id=mmD4A-MGQokC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/11713.The_English_Patient
+"Crown of Midnight (Throne of Glass, #2)",Sarah J. Maas,4.36,Juvenile Fiction,2013.0,,,http://books.google.com/books/content?id=7bTeIug-jFEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/17167166-crown-of-midnight
+Midnight’s Children,Salman Rushdie,3.98,Fiction,2010.0,8.99,EUR,http://books.google.com/books/content?id=I4ITufjFf0oC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/14836.Midnight_s_Children
+The Last Song,Nicholas Sparks,4.16,Fiction,2014.0,,,http://books.google.com/books/content?id=rolgBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/6400090-the-last-song
+All the Bright Places,Jennifer Niven,4.11,Young Adult Fiction,2015.0,8.99,EUR,http://books.google.com/books/content?id=qxX8AwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/18460392-all-the-bright-places
+Like Water for Chocolate,Laura Esquivel,3.95,Mexico,1992.0,,,http://books.google.com/books/content?id=nNqUyQrUkUEC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/6952.Like_Water_for_Chocolate
+Hidden Pictures,Jason Rekulak,4.15,Fiction,2022.0,7.49,EUR,http://books.google.com/books/content?id=f4pAEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/58724923-hidden-pictures
+"Dragonfly in Amber (Outlander, #2)",Diana Gabaldon,4.34,Fiction,1993.0,,,http://books.google.com/books/content?id=AloV16fwhZkC&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/5364.Dragonfly_in_Amber
+The Nightingale,Kristin Hannah,4.64,Fiction,2015.0,11.99,EUR,http://books.google.com/books/content?id=ZNyIBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/21853621-the-nightingale
+"Crescendo (Hush, Hush, #2)",Becca Fitzpatrick,3.98,"Grey, Nora (Fictitious character)",2014.0,,,,https://www.goodreads.com/book/show/7791997-crescendo
+"Queen of Shadows (Throne of Glass, #4)",Sarah J. Maas,4.62,Fiction,2023.0,,,http://books.google.com/books/content?id=iil-EAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/18006496-queen-of-shadows
+Midnight in the Garden of Good and Evil,John Berendt,3.92,True Crime,2010.0,9.09,EUR,http://books.google.com/books/content?id=YjxITJFUDhoC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/386187.Midnight_in_the_Garden_of_Good_and_Evil
+"The One (The Selection, #3)",Kiera Cass,4.14,Young Adult Fiction,2014.0,6.29,EUR,http://books.google.com/books/content?id=wckaAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/18635016-the-one
+A Streetcar Named Desire,Tennessee Williams,3.98,Drama,2023.0,11.3,EUR,http://books.google.com/books/content?id=hKadEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/12220.A_Streetcar_Named_Desire
+My Ántonia,Willa Cather,3.84,Fiction,2018.0,5.99,EUR,http://books.google.com/books/content?id=dNliDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/17150.My_ntonia
+Breakfast at Tiffany’s and Three Stories,Truman Capote,3.85,Fiction,2012.0,9.09,EUR,http://books.google.com/books/content?id=UwWWh1WLn9EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/251688.Breakfast_at_Tiffany_s_and_Three_Stories
+The Prince,Niccolò Machiavelli,3.84,Philosophy,1998.0,,,http://books.google.com/books/content?id=MugHAy_Atz4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/28862.The_Prince
+"The Subtle Knife (His Dark Materials, #2)",Philip Pullman,4.15,,2019.0,,,,https://www.goodreads.com/book/show/41637836-the-subtle-knife
+Breakfast of Champions,Kurt Vonnegut Jr.,4.06,,1979.0,,,,https://www.goodreads.com/book/show/4980.Breakfast_of_Champions
+"Red, White & Royal Blue",Casey McQuiston,4.05,Fiction,2019.0,10.82,EUR,http://books.google.com/books/content?id=1I1xDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/41150487-red-white-royal-blue
+We Were Liars,E. Lockhart,3.65,Young Adult Fiction,2014.0,7.07,EUR,http://books.google.com/books/content?id=7ZRVAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/16143347-we-were-liars
+The Origin of Species,Charles Darwin,4.01,Evolution,1909.0,,,http://books.google.com/books/content?id=YY4EAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api,https://www.goodreads.com/book/show/22463.The_Origin_of_Species
+The Wasp Factory,Iain Banks,3.75,Fiction,2013.0,,,http://books.google.com/books/content?id=t69zKBBe9OsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/567678.The_Wasp_Factory
+"The Hate U Give (The Hate U Give, #1)",Angie Thomas,4.45,Young Adult Fiction,2017.0,9.99,EUR,http://books.google.com/books/content?id=uARhDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/32075671-the-hate-u-give
+A Fine Balance,Rohinton Mistry,4.38,Fiction,2010.0,9.09,EUR,http://books.google.com/books/content?id=WcaFd95RABEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/5211.A_Fine_Balance
+"The Inheritance Games (The Inheritance Games, #1)",Jennifer Lynn Barnes,4.13,Young Adult Fiction,2022.0,4.99,EUR,http://books.google.com/books/content?id=5GtLEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/52439531-the-inheritance-games
+"Hopeless (Hopeless, #1)",Colleen Hoover,4.22,Fiction,2022.0,12.85,EUR,http://books.google.com/books/content?id=B12CEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/15717943-hopeless
+Persuasion,Jane Austen,4.15,Fiction,2004.0,,,http://books.google.com/books/content?id=Y68rgrlzrjwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/2156.Persuasion
+"Flowers in the Attic (Dollanganger, #1)",V.C. Andrews,3.85,Fiction,2011.0,14.83,EUR,http://books.google.com/books/content?id=CElIqGBvyusC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/43448.Flowers_in_the_Attic
+"Daughter of Smoke & Bone (Daughter of Smoke & Bone, #1)",Laini Taylor,3.99,Fiction,2012.0,,,http://books.google.com/books/content?id=tvluAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/8490112-daughter-of-smoke-bone
+"A Feast for Crows (A Song of Ice and Fire, #4)",George R.R. Martin,4.17,Fiction,2005.0,8.09,EUR,http://books.google.com/books/content?id=NuMx6tmf5iIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/13497.A_Feast_for_Crows
+"Unbroken: A World War II Story of Survival, Resilience and Redemption",Laura Hillenbrand,4.39,Biography & Autobiography,2010.0,2.02,EUR,http://books.google.com/books/content?id=-kNK2cNXlEQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api,https://www.goodreads.com/book/show/8664353-unbroken
+Infinite Jest,David Foster Wallace,,,,,,,https://www.goodreads.com/book/show/6759.Infinite_Jest
+"The Host (The Host, #1)",Stephenie Meyer,,,,,,,https://www.goodreads.com/book/show/1656001.The_Host
+"Pippi Longstocking (Pippi Långstrump, #1)",Astrid Lindgren,,,,,,,https://www.goodreads.com/book/show/19302.Pippi_Longstocking
+Death of a Salesman,Arthur Miller,,,,,,,https://www.goodreads.com/book/show/12898.Death_of_a_Salesman
+Carrie,Stephen        King,,,,,,,https://www.goodreads.com/book/show/10592.Carrie
+"Evermore (The Immortals, #1)",Alyson Noel,,,,,,,https://www.goodreads.com/book/show/3975774-evermore
+"I Know Why the Caged Bird Sings (Maya Angelou's Autobiography, #1)",Maya Angelou,,,,,,,https://www.goodreads.com/book/show/13214.I_Know_Why_the_Caged_Bird_Sings
+The Scarlet Pimpernel,Emmuska Orczy,,,,,,,https://www.goodreads.com/book/show/136116.The_Scarlet_Pimpernel
+Local Woman Missing,Mary Kubica,,,,,,,https://www.goodreads.com/book/show/57361474-local-woman-missing
+Jonathan Strange & Mr Norrell,Susanna Clarke,,,,,,,https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell
+"The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",Erik Larson,,,,,,,https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City
+"A Court of Wings and Ruin (A Court of Thorns and Roses, #3)",Sarah J. Maas,,,,,,,https://www.goodreads.com/book/show/23766634-a-court-of-wings-and-ruin
+"Artemis Fowl (Artemis Fowl, #1)",Eoin Colfer,,,,,,,https://www.goodreads.com/book/show/249747.Artemis_Fowl
+Snow Flower and the Secret Fan,Lisa See,,,,,,,https://www.goodreads.com/book/show/40873273-snow-flower-and-the-secret-fan
+"Faust, First Part",Johann Wolfgang von Goethe,,,,,,,https://www.goodreads.com/book/show/14706.Faust_First_Part
+"The Raven Boys (The Raven Cycle, #1)",Maggie Stiefvater,,,,,,,https://www.goodreads.com/book/show/17675462-the-raven-boys
+Sharp Objects,Gillian Flynn,,,,,,,https://www.goodreads.com/book/show/18045891-sharp-objects
+Northanger Abbey,Jane Austen,,,,,,,https://www.goodreads.com/book/show/50398.Northanger_Abbey
+Night,Elie Wiesel,,,,,,,https://www.goodreads.com/book/show/1617.Night
+"Matched (Matched, #1)",Ally Condie,,,,,,,https://www.goodreads.com/book/show/7735333-matched
+"Anna and the French Kiss (Anna and the French Kiss, #1)",Stephanie Perkins,,,,,,,https://www.goodreads.com/book/show/6936382-anna-and-the-french-kiss
+"The Angel Experiment (Maximum Ride, #1)",James  Patterson,,,,,,,https://www.goodreads.com/book/show/13152.The_Angel_Experiment
+Waiting for Godot,Samuel Beckett,,,,,,,https://www.goodreads.com/book/show/17716.Waiting_for_Godot
+The Haunting of Hill House,Shirley Jackson,,,,,,,https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House
+High Fidelity,Nick Hornby,,,,,,,https://www.goodreads.com/book/show/285092.High_Fidelity
+To the Lighthouse,Virginia Woolf,,,,,,,https://www.goodreads.com/book/show/59716.To_the_Lighthouse
+"The Tales of Beedle the Bard (Hogwarts Library, #3)",J.K. Rowling,,,,,,,https://www.goodreads.com/book/show/3950967-the-tales-of-beedle-the-bard
+The Shipping News,Annie Proulx,,,,,,,https://www.goodreads.com/book/show/7354.The_Shipping_News
+The Goldfinch,Donna Tartt,,,,,,,https://www.goodreads.com/book/show/17333223-the-goldfinch
+Nineteen Minutes,Jodi Picoult,,,,,,,https://www.goodreads.com/book/show/14866.Nineteen_Minutes
+"The Chosen (Reuven Malter, #1)",Chaim Potok,,,,,,,https://www.goodreads.com/book/show/187181.The_Chosen
+Emma,Jane Austen,,,,,,,https://www.goodreads.com/book/show/6969.Emma
+"The Voyage of the Dawn Treader (Chronicles of Narnia, #3)",C.S. Lewis,,,,,,,https://www.goodreads.com/book/show/140225.The_Voyage_of_the_Dawn_Treader
+Shantaram,Gregory David Roberts,,,,,,,https://www.goodreads.com/book/show/33600.Shantaram
+"Neuromancer (Sprawl, #1)",William Gibson,,,,,,,https://www.goodreads.com/book/show/6088007-neuromancer
+Pet Sematary,Stephen        King,,,,,,,https://www.goodreads.com/book/show/33124137-pet-sematary
+"I, Robot (Robot, #0.1)",Isaac Asimov,,,,,,,https://www.goodreads.com/book/show/41804.I_Robot
+Houdini Heart,Ki Longfellow,,,,,,,https://www.goodreads.com/book/show/11324204-houdini-heart
+Redeeming Love,Francine  Rivers,,,,,,,https://www.goodreads.com/book/show/11422.Redeeming_Love
+"The Return of the King (The Lord of the Rings, #3)",J.R.R. Tolkien,,,,,,,https://www.goodreads.com/book/show/838729.The_Return_of_the_King
+A Christmas Carol,Charles Dickens,,,,,,,https://www.goodreads.com/book/show/5326.A_Christmas_Carol
+"A Dance with Dragons (A Song of Ice and Fire, #5)",George R.R. Martin,,,,,,,https://www.goodreads.com/book/show/10664113-a-dance-with-dragons
+The Reader,Bernhard Schlink,,,,,,,https://www.goodreads.com/book/show/101299.The_Reader
+"The Lost Symbol (Robert Langdon, #3)",Dan    Brown,,,,,,,https://www.goodreads.com/book/show/6411961-the-lost-symbol
+"The Wicked King (The Folk of the Air, #2)",Holly Black,,,,,,,https://www.goodreads.com/book/show/26032887-the-wicked-king
+The Collector,John Fowles,,,,,,,https://www.goodreads.com/book/show/243705.The_Collector
+Dubliners,James Joyce,,,,,,,https://www.goodreads.com/book/show/11012.Dubliners
+The Age of Innocence,Edith Wharton,,,,,,,https://www.goodreads.com/book/show/53835.The_Age_of_Innocence
+"Angels & Demons (Robert Langdon, #1)",Dan    Brown,,,,,,,https://www.goodreads.com/book/show/960.Angels_Demons
+The Republic,Plato,,,,,,,https://www.goodreads.com/book/show/30289.The_Republic
+"The Queen of Nothing (The Folk of the Air, #3)",Holly Black,,,,,,,https://www.goodreads.com/book/show/26032912-the-queen-of-nothing
+"The Bad Beginning (A Series of Unfortunate Events, #1)",Lemony Snicket,,,,,,,https://www.goodreads.com/book/show/78411.The_Bad_Beginning
+The Waste Land,T.S. Eliot,,,,,,,https://www.goodreads.com/book/show/34080.The_Waste_Land
+The Silent Patient,Alex Michaelides,,,,,,,https://www.goodreads.com/book/show/40097951-the-silent-patient
+"Voyager (Outlander, #3)",Diana Gabaldon,,,,,,,https://www.goodreads.com/book/show/10987.Voyager
+"Sheever's Journal, Diary of a Poison Master",K.  Ritz,,,,,,,https://www.goodreads.com/book/show/52022378-sheever-s-journal-diary-of-a-poison-master
+"City of Glass (The Mortal Instruments, #3)",Cassandra Clare,,,,,,,https://www.goodreads.com/book/show/3777732-city-of-glass
+The Twilight Collection,Stephenie Meyer,,,,,,,https://www.goodreads.com/book/show/690926.The_Twilight_Collection
+Requiem for a Dream,Hubert Selby Jr.,,,,,,,https://www.goodreads.com/book/show/46945.Requiem_for_a_Dream
+The Jungle,Upton Sinclair,,,,,,,https://www.goodreads.com/book/show/41681.The_Jungle
+"Lover Awakened (Black Dagger Brotherhood, #3)",J.R. Ward,,,,,,,https://www.goodreads.com/book/show/42900.Lover_Awakened
+Divine Secrets of the Ya-Ya Sisterhood,Rebecca Wells,,,,,,,https://www.goodreads.com/book/show/137791.Divine_Secrets_of_the_Ya_Ya_Sisterhood
+"The Two Towers (The Lord of the Rings, #2)",J.R.R. Tolkien,,,,,,,https://www.goodreads.com/book/show/222910.The_Two_Towers
+"Betrayed (House of Night, #2)",P.C. Cast,,,,,,,https://www.goodreads.com/book/show/676924.Betrayed
+Me Talk Pretty One Day,David Sedaris,,,,,,,https://www.goodreads.com/book/show/4137.Me_Talk_Pretty_One_Day
+The Pearl,John Steinbeck,,,,,,,https://www.goodreads.com/book/show/5308.The_Pearl
+Snow Falling on Cedars,David Guterson,,,,,,,https://www.goodreads.com/book/show/77142.Snow_Falling_on_Cedars
+"The Last Battle (Chronicles of Narnia, #7)",C.S. Lewis,,,,,,,https://www.goodreads.com/book/show/84369.The_Last_Battle
+Sense and Sensibility,Jane Austen,,,,,,,https://www.goodreads.com/book/show/14935.Sense_and_Sensibility
+"Untamed (House of Night, #4)",P.C. Cast,,,,,,,https://www.goodreads.com/book/show/2866718-untamed
+"I, Claudius (Claudius, #1)",Robert Graves,,,,,,,https://www.goodreads.com/book/show/18765.I_Claudius
+"The Exorcist (The Exorcist, #1)",William Peter Blatty,,,,,,,https://www.goodreads.com/book/show/179780.The_Exorcist
+Less Than Zero,Bret Easton Ellis,,,,,,,https://www.goodreads.com/book/show/9915.Less_Than_Zero
+"The Elite (The Selection, #2)",Kiera Cass,,,,,,,https://www.goodreads.com/book/show/16248068-the-elite
+"Words of Radiance (The Stormlight Archive, #2)",Brandon Sanderson,,,,,,,https://www.goodreads.com/book/show/17332218-words-of-radiance
+"Unravel Me (Shatter Me, #2)",Tahereh Mafi,,,,,,,https://www.goodreads.com/book/show/13104080-unravel-me
+Everything is Illuminated,Jonathan Safran Foer,,,,,,,https://www.goodreads.com/book/show/256566.Everything_is_Illuminated
+A Room with a View,E.M. Forster,,,,,,,https://www.goodreads.com/book/show/3087.A_Room_with_a_View
+"Girl, Interrupted",Susanna Kaysen,,,,,,,https://www.goodreads.com/book/show/68783.Girl_Interrupted
+"The 5th Wave (The 5th Wave, #1)",Rick Yancey,,,,,,,https://www.goodreads.com/book/show/16101128-the-5th-wave
+World War Z: An Oral History of the Zombie War,Max Brooks,,,,,,,https://www.goodreads.com/book/show/8908.World_War_Z
+The Beach,Alex Garland,,,,,,,https://www.goodreads.com/book/show/607639.The_Beach
+The War of the Worlds,H.G. Wells,,,,,,,https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds
+"A Discovery of Witches (All Souls, #1)",Deborah Harkness,,,,,,,https://www.goodreads.com/book/show/8667848-a-discovery-of-witches
+"A ​Court of Silver Flames (A Court of Thorns and Roses, #4)",Sarah J. Maas,,,,,,,https://www.goodreads.com/book/show/53138095-a-court-of-silver-flames
+Macbeth,William Shakespeare,,,,,,,https://www.goodreads.com/book/show/8852.Macbeth
+"Chosen (House of Night, #3)",P.C. Cast,,,,,,,https://www.goodreads.com/book/show/1326258.Chosen
+Bleak House,Charles Dickens,,,,,,,https://www.goodreads.com/book/show/31242.Bleak_House
+The Woman in White,Wilkie Collins,,,,,,,https://www.goodreads.com/book/show/5890.The_Woman_in_White
+The Complete Poems of Emily Dickinson,Emily Dickinson,,,,,,,https://www.goodreads.com/book/show/112204.The_Complete_Poems_of_Emily_Dickinson
+"Unwind (Unwind, #1)",Neal Shusterman,,,,,,,https://www.goodreads.com/book/show/764347.Unwind
+"The Talented Mr. Ripley (Ripley, #1)",Patricia Highsmith,,,,,,,https://www.goodreads.com/book/show/2247142.The_Talented_Mr_Ripley
+انتحار فاشل,أحمد جمال الدين رمضان,,,,,,,https://www.goodreads.com/book/show/30528535
+North and South,Elizabeth Gaskell,,,,,,,https://www.goodreads.com/book/show/156538.North_and_South
+Crash,J.G. Ballard,,,,,,,https://www.goodreads.com/book/show/70241.Crash
+Brideshead Revisited,Evelyn Waugh,,,,,,,https://www.goodreads.com/book/show/30933.Brideshead_Revisited
+"Shadow and Bone (Shadow and Bone, #1)",Leigh Bardugo,,,,,,,https://www.goodreads.com/book/show/10194157-shadow-and-bone
+Ugly Love,Colleen Hoover,,,,,,,https://www.goodreads.com/book/show/17788401-ugly-love
+Those Empty Eyes,Charlie Donlea,,,,,,,https://www.goodreads.com/book/show/62984900-those-empty-eyes
+The God Delusion,Richard Dawkins,,,,,,,https://www.goodreads.com/book/show/14743.The_God_Delusion
+"Empire of Storms (Throne of Glass, #5)",Sarah J. Maas,,,,,,,https://www.goodreads.com/book/show/28260587-empire-of-storms
+"The Lies of Locke Lamora (Gentleman Bastard, #1)",Scott Lynch,,,,,,,https://www.goodreads.com/book/show/29588376-the-lies-of-locke-lamora
+"2001: A Space Odyssey (Space Odyssey, #1)",Arthur C. Clarke,,,,,,,https://www.goodreads.com/book/show/70535.2001
+العصبي,أحمد جمال الدين رمضان,,,,,,,https://www.goodreads.com/book/show/30528544
+The Left Hand of Darkness,Ursula K. Le Guin,,,,,,,https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness
+"The Iron King (The Iron Fey, #1)",Julie Kagawa,,,,,,,https://www.goodreads.com/book/show/6644117-the-iron-king
+Of Human Bondage,W. Somerset Maugham,,,,,,,https://www.goodreads.com/book/show/31548.Of_Human_Bondage
+"Call Me By Your Name (Call Me By Your Name, #1)",André Aciman,,,,,,,https://www.goodreads.com/book/show/36336078-call-me-by-your-name
+Snow Crash,Neal Stephenson,,,,,,,https://www.goodreads.com/book/show/40651883-snow-crash
+"Heartstopper: Volume One (Heartstopper, #1)",Alice Oseman,,,,,,,https://www.goodreads.com/book/show/40495957-heartstopper
+"Bloodlines (Bloodlines, #1)",Richelle Mead,,,,,,,https://www.goodreads.com/book/show/8709527-bloodlines
+"The Witching Hour (Lives of the Mayfair Witches, #1)",Anne Rice,,,,,,,https://www.goodreads.com/book/show/11901.The_Witching_Hour
+Vanity Fair,William Makepeace Thackeray,,,,,,,https://www.goodreads.com/book/show/5797.Vanity_Fair
+"Wizard's First Rule (Sword of Truth, #1)",Terry Goodkind,,,,,,,https://www.goodreads.com/book/show/43889.Wizard_s_First_Rule
+The Love Hypothesis,Ali Hazelwood,,,,,,,https://www.goodreads.com/book/show/56732449-the-love-hypothesis
+Much Ado About Nothing,William Shakespeare,,,,,,,https://www.goodreads.com/book/show/12957.Much_Ado_About_Nothing
+Far From the Madding Crowd,Thomas Hardy,,,,,,,https://www.goodreads.com/book/show/31463.Far_From_the_Madding_Crowd
+Johnny Got His Gun,Dalton Trumbo,,,,,,,https://www.goodreads.com/book/show/51606.Johnny_Got_His_Gun
+A Monster Calls,Patrick Ness,,,,,,,https://www.goodreads.com/book/show/25480342-a-monster-calls
+Daisy Jones & The Six,Taylor Jenkins Reid,,,,,,,https://www.goodreads.com/book/show/40597810-daisy-jones-the-six
+Verity,Colleen Hoover,,,,,,,https://www.goodreads.com/book/show/59344312-verity
+"Hyperion (Hyperion Cantos, #1)",Dan Simmons,,,,,,,https://www.goodreads.com/book/show/77566.Hyperion
+"Little House on the Prairie (Little House, #3)",Laura Ingalls Wilder,,,,,,,https://www.goodreads.com/book/show/77767.Little_House_on_the_Prairie
+A Man Called Ove,Fredrik Backman,,,,,,,https://www.goodreads.com/book/show/18774964-a-man-called-ove
+"Cannery Row (Cannery Row, #1)",John Steinbeck,,,,,,,https://www.goodreads.com/book/show/4799.Cannery_Row
+"Caraval (Caraval, #1)",Stephanie Garber,,,,,,,https://www.goodreads.com/book/show/27883214-caraval
+"Anne of Avonlea (Anne of Green Gables, #2)",L.M. Montgomery,,,,,,,https://www.goodreads.com/book/show/77390.Anne_of_Avonlea
+"The Red Pyramid (The Kane Chronicles, #1)",Rick Riordan,,,,,,,https://www.goodreads.com/book/show/7090447-the-red-pyramid
+"Bared to You (Crossfire, #1)",Sylvia Day,,,,,,,https://www.goodreads.com/book/show/20448515-bared-to-you
+What Lies in the Woods,Kate Alice Marshall,,,,,,,https://www.goodreads.com/book/show/60784373-what-lies-in-the-woods
+"They Both Die at the End (They Both Die at the End, #1)",Adam Silvera,,,,,,,https://www.goodreads.com/book/show/33385229-they-both-die-at-the-end
+"Cress (The Lunar Chronicles, #3)",Marissa Meyer,,,,,,,https://www.goodreads.com/book/show/13206828-cress
+"Cry, the Beloved Country",Alan Paton,,,,,,,https://www.goodreads.com/book/show/6150.Cry_the_Beloved_Country
+Are You My Mother?,P.D. Eastman,,,,,,,https://www.goodreads.com/book/show/197084.Are_You_My_Mother_
+"Torment (Fallen, #2)",Lauren Kate,,,,,,,https://www.goodreads.com/book/show/7740152-torment
+The Polar Express,Chris Van Allsburg,,,,,,,https://www.goodreads.com/book/show/420282.The_Polar_Express
+I'll Give You the Sun,Jandy Nelson,,,,,,,https://www.goodreads.com/book/show/20820994-i-ll-give-you-the-sun
+Cutting for Stone,Abraham   Verghese,,,,,,,https://www.goodreads.com/book/show/3591262-cutting-for-stone
+Sarah's Key,Tatiana de Rosnay,,,,,,,https://www.goodreads.com/book/show/556602.Sarah_s_Key
+"Powerless (The Powerless Trilogy, #1)",Lauren  Roberts,,,,,,,https://www.goodreads.com/book/show/75513900-powerless
+"Perfect Chemistry (Perfect Chemistry, #1)",Simone Elkeles,,,,,,,https://www.goodreads.com/book/show/4268157-perfect-chemistry
+Into Thin Air: A Personal Account of the Mt. Everest Disaster,Jon Krakauer,,,,,,,https://www.goodreads.com/book/show/1898.Into_Thin_Air
+"Better Than the Movies (Better Than the Movies, #1)",Lynn Painter,,,,,,,https://www.goodreads.com/book/show/55710822-better-than-the-movies
+"Darkly Dreaming Dexter (Dexter, #1)",Jeff Lindsay,,,,,,,https://www.goodreads.com/book/show/17231.Darkly_Dreaming_Dexter
+"Little House in the Big Woods (Little House, #1)",Laura Ingalls Wilder,,,,,,,https://www.goodreads.com/book/show/8337.Little_House_in_the_Big_Woods
+Last Exit to Brooklyn,Hubert Selby Jr.,,,,,,,https://www.goodreads.com/book/show/50275.Last_Exit_to_Brooklyn
+"Angelfall (Penryn & the End of Days, #1)",Susan Ee,,,,,,,https://www.goodreads.com/book/show/15863832-angelfall
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,,,,,,,https://www.goodreads.com/book/show/23692271-sapiens
+"A Great and Terrible Beauty (Gemma Doyle, #1)",Libba Bray,,,,,,,https://www.goodreads.com/book/show/3682.A_Great_and_Terrible_Beauty
+"Scarlet (The Lunar Chronicles, #2)",Marissa Meyer,,,,,,,https://www.goodreads.com/book/show/13206760-scarlet
+Normal People,Sally Rooney,,,,,,,https://www.goodreads.com/book/show/41057294-normal-people
+"The Mortal Instruments Boxed Set: City of Bones; City of Ashes; City of Glass (The Mortal Instruments, #1-3)",Cassandra Clare,,,,,,,https://www.goodreads.com/book/show/6485421-the-mortal-instruments-boxed-set
+"The Darkest Minds (The Darkest Minds, #1)",Alexandra Bracken,,,,,,,https://www.goodreads.com/book/show/10576365-the-darkest-minds
+"The Horse and His Boy (Chronicles of Narnia, #5)",C.S. Lewis,,,,,,,https://www.goodreads.com/book/show/84119.The_Horse_and_His_Boy
+"Sabriel (Abhorsen, #1)",Garth Nix,,,,,,,https://www.goodreads.com/book/show/518848.Sabriel
+No Country for Old Men,Cormac McCarthy,,,,,,,https://www.goodreads.com/book/show/12497.No_Country_for_Old_Men
+The Art of War,Sun Tzu,,,,,,,https://www.goodreads.com/book/show/10534.The_Art_of_War
+"Chocolat (Chocolat, #1)",Joanne Harris,,,,,,,https://www.goodreads.com/book/show/47401.Chocolat
+The Westing Game,Ellen Raskin,,,,,,,https://www.goodreads.com/book/show/902.The_Westing_Game
+The Summoning (Darkest Powers #1),Kelley Armstrong,,,,,,,https://www.goodreads.com/book/show/2800905-the-summoning
+"Swann’s Way (In Search of Lost Time, #1)",Marcel Proust,,,,,,,https://www.goodreads.com/book/show/12749.Swann_s_Way
+American Tabloid (Underworld USA #1),James Ellroy,,,,,,,https://www.goodreads.com/book/show/36064.American_Tabloid
+The Last Lecture,Randy Pausch,,,,,,,https://www.goodreads.com/book/show/40611510-the-last-lecture
+"Red Rising (Red Rising Saga, #1)",Pierce Brown,,,,,,,https://www.goodreads.com/book/show/15839976-red-rising
+"Silence (Hush, Hush, #3)",Becca Fitzpatrick,,,,,,,https://www.goodreads.com/book/show/10637766-silence
+"The Unbecoming of Mara Dyer (Mara Dyer, #1)",Michelle Hodkin,,,,,,,https://www.goodreads.com/book/show/11408650-the-unbecoming-of-mara-dyer
+Just Listen,Sarah Dessen,,,,,,,https://www.goodreads.com/book/show/51738.Just_Listen
+"Halfway to the Grave (Night Huntress, #1)",Jeaniene Frost,,,,,,,https://www.goodreads.com/book/show/1421990.Halfway_to_the_Grave
+"The Goose Girl (The Books of Bayern, #1)",Shannon Hale,,,,,,,https://www.goodreads.com/book/show/179064.The_Goose_Girl
+Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time,Greg Mortenson,,,,,,,https://www.goodreads.com/book/show/49436.Three_Cups_of_Tea
+Twelfth Night,William Shakespeare,,,,,,,https://www.goodreads.com/book/show/1625.Twelfth_Night
+"I Am Number Four (Lorien Legacies, #1)",Pittacus Lore,,,,,,,https://www.goodreads.com/book/show/7747374-i-am-number-four
+Winter's Bone,Daniel Woodrell,,,,,,,https://www.goodreads.com/book/show/112525.Winter_s_Bone
+Lady Chatterley’s Lover,D.H. Lawrence,,,,,,,https://www.goodreads.com/book/show/32049.Lady_Chatterley_s_Lover
+Savages (Savages #2),Don Winslow,,,,,,,https://www.goodreads.com/book/show/8008928-savages
+A Simple Plan,Scott        Smith,,,,,,,https://www.goodreads.com/book/show/21727.A_Simple_Plan
+I Capture the Castle,Dodie Smith,,,,,,,https://www.goodreads.com/book/show/31122.I_Capture_the_Castle
+Clockers,Richard Price,,,,,,,https://www.goodreads.com/book/show/45794.Clockers
+Nine Stories,J.D. Salinger,,,,,,,https://www.goodreads.com/book/show/4009.Nine_Stories
+"Trainspotting (Mark Renton, #2)",Irvine Welsh,,,,,,,https://www.goodreads.com/book/show/135836.Trainspotting
+Kill Your Friends,John Niven,,,,,,,https://www.goodreads.com/book/show/2848807-kill-your-friends
+"The Last Unicorn (The Last Unicorn, #1)",Peter S. Beagle,,,,,,,https://www.goodreads.com/book/show/29127.The_Last_Unicorn
+The Truth About Forever,Sarah Dessen,,,,,,,https://www.goodreads.com/book/show/51737.The_Truth_About_Forever
+Layer Cake,J.J. Connolly,,,,,,,https://www.goodreads.com/book/show/29421.Layer_Cake
+"Speaker for the Dead (Ender's Saga, #2)",Orson Scott Card,,,,,,,https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead
+"Ishmael (Ishmael, #1)",Daniel Quinn,,,,,,,https://www.goodreads.com/book/show/40611328-ishmael
+"Dead to the World (Sookie Stackhouse, #4)",Charlaine Harris,,,,,,,https://www.goodreads.com/book/show/140077.Dead_to_the_World
+"Kingdom of Ash (Throne of Glass, #7)",Sarah J. Maas,,,,,,,https://www.goodreads.com/book/show/33590260-kingdom-of-ash
+Penance,Eliza  Clark,,,,,,,https://www.goodreads.com/book/show/62898932-penance
+"The Bronze Horseman (The Bronze Horseman, #1)",Paullina Simons,,,,,,,https://www.goodreads.com/book/show/83144.The_Bronze_Horseman
+Demian: Die Geschichte von Emil Sinclairs Jugend,Hermann Hesse,,,,,,,https://www.goodreads.com/book/show/24861.Demian
+The Hours,Michael Cunningham,,,,,,,https://www.goodreads.com/book/show/11899.The_Hours
+Julius Caesar,William Shakespeare,,,,,,,https://www.goodreads.com/book/show/13006.Julius_Caesar
+The Glass Castle,Jeannette Walls,,,,,,,https://www.goodreads.com/book/show/7445.The_Glass_Castle
+"You Are Special (Wemmicksville, #1)",Max Lucado,,,,,,,https://www.goodreads.com/book/show/56728.You_Are_Special
+Trainspotting,Irvine Welsh,,,,,,,https://www.goodreads.com/book/show/23955.Trainspotting
+"A Wizard of Earthsea (Earthsea Cycle, #1)",Ursula K. Le Guin,,,,,,,https://www.goodreads.com/book/show/13642.A_Wizard_of_Earthsea
+"Drums of Autumn (Outlander, #4)",Diana Gabaldon,,,,,,,https://www.goodreads.com/book/show/40909452-drums-of-autumn
+Audition,Ryū Murakami,,,,,,,https://www.goodreads.com/book/show/3392668-audition
+The Arabian Nights,Anonymous,,,,,,,https://www.goodreads.com/book/show/93101.The_Arabian_Nights
+Cyrano de Bergerac,Edmond Rostand,,,,,,,https://www.goodreads.com/book/show/15638.Cyrano_de_Bergerac
+The Quiet Tenant,Clémence Michallon,,,,,,,https://www.goodreads.com/book/show/61897971-the-quiet-tenant
+"Slammed (Slammed, #1)",Colleen Hoover,,,,,,,https://www.goodreads.com/book/show/30333938-slammed
+"Acheron (Dark-Hunter, #14)",Sherrilyn Kenyon,,,,,,,https://www.goodreads.com/book/show/2299110.Acheron
+"The Black Dahlia Ellroy, James ( Author ) Aug-01-2006 Paperback",James Ellroy,,,,,,,https://www.goodreads.com/book/show/128765450-the-black-dahlia-ellroy-james-author-aug-01-2006-paperback
+City of God,Paulo Lins,,,,,,,https://www.goodreads.com/book/show/165662.City_of_God
+The Holy Bible: King James Version,Anonymous,,,,,,,https://www.goodreads.com/book/show/1923820.The_Holy_Bible
+The Glass Menagerie,Tennessee Williams,,,,,,,https://www.goodreads.com/book/show/92517.The_Glass_Menagerie
+Pericles and Aspasia: A Story of Ancient Greece,Yvonne Korshak,,,,,,,https://www.goodreads.com/book/show/62986809-pericles-and-aspasia
+"World Without End (Kingsbridge, #2)",Ken Follett,,,,,,,https://www.goodreads.com/book/show/5064.World_Without_End
+"To All the Boys I've Loved Before (To All the Boys I've Loved Before, #1)",Jenny Han,,,,,,,https://www.goodreads.com/book/show/15749186-to-all-the-boys-i-ve-loved-before
+High-Rise,J.G. Ballard,,,,,,,https://www.goodreads.com/book/show/12331767-high-rise
+"The Knife of Never Letting Go (Chaos Walking, #1)",Patrick Ness,,,,,,,https://www.goodreads.com/book/show/20758104-the-knife-of-never-letting-go
+The Killer Inside Me,Jim Thompson,,,,,,,https://www.goodreads.com/book/show/298663.The_Killer_Inside_Me
+"1Q84 (1Q84, #1-3)",Haruki Murakami,,,,,,,https://www.goodreads.com/book/show/10357575-1q84
+"Good Girl, Bad Blood (A Good Girl's Guide to Murder, #2)",Holly  Jackson,,,,,,,https://www.goodreads.com/book/show/51335759-good-girl-bad-blood
+We Need to Talk About Kevin,Lionel Shriver,,,,,,,https://www.goodreads.com/book/show/80660.We_Need_to_Talk_About_Kevin
+"[No Country for Old Men] (By: Cormac McCarthy) [published: December, 2007]",Cormac McCarthy,,,,,,,https://www.goodreads.com/book/show/131313317-no-country-for-old-men-by
+"Carry On (Simon Snow, #1)",Rainbow Rowell,,,,,,,https://www.goodreads.com/book/show/32768522-carry-on
+"Hunted (House of Night, #5)",P.C. Cast,,,,,,,https://www.goodreads.com/book/show/4134071-hunted
+"The Scorch Trials (The Maze Runner, #2)",James Dashner,,,,,,,https://www.goodreads.com/book/show/7631105-the-scorch-trials
+"A Dog's Purpose (A Dog's Purpose, #1)",W. Bruce Cameron,,,,,,,https://www.goodreads.com/book/show/7723542-a-dog-s-purpose
+"Captive in the Dark (The Dark Duet, #1)",C.J. Roberts,,,,,,,https://www.goodreads.com/book/show/12513614-captive-in-the-dark
+"Viciously Yours (Fae Kings of Eden, #1)",Jamie Applegate Hunter,,,,,,,https://www.goodreads.com/book/show/205404157-viciously-yours
+"The Silver Chair (Chronicles of Narnia, #4)",C.S. Lewis,,,,,,,https://www.goodreads.com/book/show/65641.The_Silver_Chair
+No One Can Know,Kate Alice Marshall,,,,,,,https://www.goodreads.com/book/show/127305892-no-one-can-know
+"L.A. Confidential (L.A. Quartet, #3)",James Ellroy,,,,,,,https://www.goodreads.com/book/show/57727.L_A_Confidential
+Taming Flame,Therisa Peimer,,,,,,,https://www.goodreads.com/book/show/61608233-taming-flame
+Before I Fall,Lauren Oliver,,,,,,,https://www.goodreads.com/book/show/6482837-before-i-fall
+The Merchant of Venice,William Shakespeare,,,,,,,https://www.goodreads.com/book/show/24128.The_Merchant_of_Venice
+Interpreter of Maladies,Jhumpa Lahiri,,,,,,,https://www.goodreads.com/book/show/5439.Interpreter_of_Maladies
+"Inheritance (The Inheritance Cycle, #4)",Christopher Paolini,,,,,,,https://www.goodreads.com/book/show/7664041-inheritance
+Gray After Dark,Noelle W. Ihli,,,,,,,https://www.goodreads.com/book/show/204787816-gray-after-dark
+"Inferno (Robert Langdon, #4)",Dan    Brown,,,,,,,https://www.goodreads.com/book/show/17212231-inferno
+Project Hail Mary,Andy Weir,,,,,,,https://www.goodreads.com/book/show/54493401-project-hail-mary
+"The Bean Trees (Greer Family, #1)",Barbara Kingsolver,,,,,,,https://www.goodreads.com/book/show/30868.The_Bean_Trees
+"The Secret (The Secret, #1)",Rhonda Byrne,,,,,,,https://www.goodreads.com/book/show/52529.The_Secret
+"P.S. I Love You (P.S. I Love You, #1)",Cecelia Ahern,,,,,,,https://www.goodreads.com/book/show/366522.P_S_I_Love_You
+"Wicked Lovely (Wicked Lovely, #1)",Melissa Marr,,,,,,,https://www.goodreads.com/book/show/305234.Wicked_Lovely
+A Brief History of Time,Stephen Hawking,,,,,,,https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time
+"Hidden Bodies (You, #2)",Caroline Kepnes,,,,,,,https://www.goodreads.com/book/show/29430824-hidden-bodies
+"As Good As Dead (A Good Girl's Guide to Murder, #3)",Holly  Jackson,,,,,,,https://www.goodreads.com/book/show/56905097-as-good-as-dead
+Educated,Tara Westover,,,,,,,https://www.goodreads.com/book/show/35133922-educated
+"Prince Caspian (Chronicles of Narnia, #2)",C.S. Lewis,,,,,,,https://www.goodreads.com/book/show/121749.Prince_Caspian
+The Bluest Eye,Toni Morrison,,,,,,,https://www.goodreads.com/book/show/11337.The_Bluest_Eye
+"The Blood of Olympus (The Heroes of Olympus, #5)",Rick Riordan,,,,,,,https://www.goodreads.com/book/show/18705209-the-blood-of-olympus
+"The House in the Cerulean Sea (Cerulean Chronicles, #1)",T.J. Klune,,,,,,,https://www.goodreads.com/book/show/45047384-the-house-in-the-cerulean-sea
+"The Queen of the Damned (The Vampire Chronicles, #3)",Anne Rice,,,,,,,https://www.goodreads.com/book/show/43758.The_Queen_of_the_Damned
+Ask for Andrea,Noelle W. Ihli,,,,,,,https://www.goodreads.com/book/show/60168787-ask-for-andrea
+Gravity’s Rainbow,Thomas Pynchon,,,,,,,https://www.goodreads.com/book/show/415.Gravity_s_Rainbow
+"The Eyre Affair (Thursday Next, #1)",Jasper Fforde,,,,,,,https://www.goodreads.com/book/show/27003.The_Eyre_Affair
+The Club,Ellery Lloyd,,,,,,,https://www.goodreads.com/book/show/58536005-the-club
+One Day in the Life of Ivan Denisovich,Aleksandr Solzhenitsyn,,,,,,,https://www.goodreads.com/book/show/17125.One_Day_in_the_Life_of_Ivan_Denisovich
+"Think Twice (Myron Bolitar, #12)",Harlan Coben,,,,,,,https://www.goodreads.com/book/show/198494009-think-twice
+All the King's Men,Robert Penn Warren,,,,,,,https://www.goodreads.com/book/show/5527.All_the_King_s_Men
+Invisible Monsters,Chuck Palahniuk,,,,,,,https://www.goodreads.com/book/show/36236125-invisible-monsters
+House of Leaves,Mark Z. Danielewski,,,,,,,https://www.goodreads.com/book/show/24800.House_of_Leaves
+"My Sister, the Serial Killer",Oyinkan Braithwaite,,,,,,,https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer
+Head Like a Hole,Andrew Van Wey,,,,,,,https://www.goodreads.com/book/show/61800582-head-like-a-hole
+"Guards! Guards! (Discworld, #8; City Watch, #1)",Terry Pratchett,,,,,,,https://www.goodreads.com/book/show/64216.Guards_Guards_
+"Lover Eternal (Black Dagger Brotherhood, #2)",J.R. Ward,,,,,,,https://www.goodreads.com/book/show/35729.Lover_Eternal
+"House of Earth and Blood (Crescent City, #1)",Sarah J. Maas,,,,,,,https://www.goodreads.com/book/show/44778083-house-of-earth-and-blood
+"Assassin's Apprentice (Farseer Trilogy, #1)",Robin Hobb,,,,,,,https://www.goodreads.com/book/show/77197.Assassin_s_Apprentice
+"In Cold Blood by Truman Capote [Random,2002]",Truman Capote,,,,,,,https://www.goodreads.com/book/show/143416043-in-cold-blood-by-truman-capote-random-2002
+Because of Winn-Dixie,Kate DiCamillo,,,,,,,https://www.goodreads.com/book/show/357664.Because_of_Winn_Dixie
+The Roommate,Kiersten Modglin,,,,,,,https://www.goodreads.com/book/show/57040367-the-roommate
+"The Bourne Identity (Jason Bourne, #1)",Robert Ludlum,,,,,,,https://www.goodreads.com/book/show/7869.The_Bourne_Identity
+Angels Fall,Nora Roberts,,,,,,,https://www.goodreads.com/book/show/26050.Angels_Fall
+"Poison Study (Study, #1)",Maria V. Snyder,,,,,,,https://www.goodreads.com/book/show/60510.Poison_Study
+Seabiscuit: An American Legend,Laura Hillenbrand,,,,,,,https://www.goodreads.com/book/show/110737.Seabiscuit
+Foucault’s Pendulum,Umberto Eco,,,,,,,https://www.goodreads.com/book/show/17841.Foucault_s_Pendulum
+"Twenty Thousand Leagues Under the Sea (Captain Nemo, #2)",Jules Verne,,,,,,,https://www.goodreads.com/book/show/33507.Twenty_Thousand_Leagues_Under_the_Sea
+Look Closer,David Ellis,,,,,,,https://www.goodreads.com/book/show/59316367-look-closer
+The Girl Who Was Taken,Charlie Donlea,,,,,,,https://www.goodreads.com/book/show/39657755-the-girl-who-was-taken
+The Memory Keeper's Daughter,Kim Edwards,,,,,,,https://www.goodreads.com/book/show/10441.The_Memory_Keeper_s_Daughter
+The Ocean at the End of the Lane,Neil Gaiman,,,,,,,https://www.goodreads.com/book/show/15783514-the-ocean-at-the-end-of-the-lane
+The Iliad,Homer,,,,,,,https://www.goodreads.com/book/show/1371.The_Iliad
+"City of Ashes (The Mortal Instruments, #2)",Cassandra Clare,,,,,,,https://www.goodreads.com/book/show/1582996.City_of_Ashes
+Galveston,Nic Pizzolatto,,,,,,,https://www.goodreads.com/book/show/7203669-galveston
+Mythology,Edith Hamilton,,,,,,,https://www.goodreads.com/book/show/23522.Mythology
+Peace Like a River,Leif Enger,,,,,,,https://www.goodreads.com/book/show/227571.Peace_Like_a_River
+The Night Before Christmas,Clement Clarke Moore,,,,,,,https://www.goodreads.com/book/show/196970.The_Night_Before_Christmas
+A People’s History of the United States: 1492 - Present,Howard Zinn,,,,,,,https://www.goodreads.com/book/show/2767.A_People_s_History_of_the_United_States
+"Not Forever, But For Now",Chuck Palahniuk,,,,,,,https://www.goodreads.com/book/show/101145468-not-forever-but-for-now
+If We Were Villains,M.L. Rio,,,,,,,https://www.goodreads.com/book/show/30319086-if-we-were-villains
+Notes on an Execution,Danya Kukafka,,,,,,,https://www.goodreads.com/book/show/57773248-notes-on-an-execution
+"Where She Went (If I Stay, #2)",Gayle Forman,,,,,,,https://www.goodreads.com/book/show/8492825-where-she-went
+"Oedipus Rex  (The Theban Plays, #1)",Sophocles,,,,,,,https://www.goodreads.com/book/show/1554.Oedipus_Rex
+"The Talisman (The Talisman, #1)",Stephen        King,,,,,,,https://www.goodreads.com/book/show/59219.The_Talisman
+The History of Love,Nicole Krauss,,,,,,,https://www.goodreads.com/book/show/3867.The_History_of_Love
+"Oryx and Crake (MaddAddam, #1)",Margaret Atwood,,,,,,,https://www.goodreads.com/book/show/46756.Oryx_and_Crake
+Grimm's Fairy Tales,Jacob Grimm,,,,,,,https://www.goodreads.com/book/show/19351490-grimm-s-fairy-tales
+"The Fiery Cross (Outlander, #5)",Diana Gabaldon,,,,,,,https://www.goodreads.com/book/show/10967.The_Fiery_Cross
+"The Hero of Ages (Mistborn, #3)",Brandon Sanderson,,,,,,,https://www.goodreads.com/book/show/2767793-the-hero-of-ages
+"Simon vs. the Homo Sapiens Agenda (Simonverse, #1)",Becky Albertalli,,,,,,,https://www.goodreads.com/book/show/19547856-simon-vs-the-homo-sapiens-agenda
+Native Son,Richard Wright,,,,,,,https://www.goodreads.com/book/show/15622.Native_Son
+The Yellow Wallpaper and Other Stories,Charlotte Perkins Gilman,,,,,,,https://www.goodreads.com/book/show/99300.The_Yellow_Wallpaper_and_Other_Stories
+The Midnight Library,Matt Haig,,,,,,,https://www.goodreads.com/book/show/52578297-the-midnight-library
+"Champion (Legend, #3)",Marie Lu,,,,,,,https://www.goodreads.com/book/show/14290364-champion
+The Tesseract,Alex Garland,,,,,,,https://www.goodreads.com/book/show/243257.The_Tesseract
+"Gone (Gone, #1)",Michael  Grant,,,,,,,https://www.goodreads.com/book/show/2536134.Gone
+"A Breath of Snow and Ashes (Outlander, #6)",Diana Gabaldon,,,,,,,https://www.goodreads.com/book/show/10965.A_Breath_of_Snow_and_Ashes
+Archer's Voice,Mia Sheridan,,,,,,,https://www.goodreads.com/book/show/32822135-archer-s-voice
+"The Killer Angels (The Civil War Trilogy, #2)",Michael Shaara,,,,,,,https://www.goodreads.com/book/show/682804.The_Killer_Angels
+"One of Us Is Lying (One of Us is Lying, #1)",Karen M. McManus,,,,,,,https://www.goodreads.com/book/show/58679358-one-of-us-is-lying
+"One for the Money (Stephanie Plum, #1)",Janet Evanovich,,,,,,,https://www.goodreads.com/book/show/6853.One_for_the_Money
+Tokyo: The Devil of Nanking,Mo Hayder,,,,,,,https://www.goodreads.com/book/show/6347010-tokyo
+The Purpose Driven Life: What on Earth Am I Here for?,Rick Warren,,,,,,,https://www.goodreads.com/book/show/56495.The_Purpose_Driven_Life
+I Am Legend and Other Stories,Richard Matheson,,,,,,,https://www.goodreads.com/book/show/547094.I_Am_Legend_and_Other_Stories
+If on a Winter’s Night a Traveler,Italo Calvino,,,,,,,https://www.goodreads.com/book/show/374233.If_on_a_Winter_s_Night_a_Traveler
+"Night Watch (Discworld, #29; City Watch, #6)",Terry Pratchett,,,,,,,https://www.goodreads.com/book/show/47989.Night_Watch
+Starship Troopers,Robert A. Heinlein,,,,,,,https://www.goodreads.com/book/show/17214.Starship_Troopers
+"Left Behind (Left Behind, #1)",Tim LaHaye,,,,,,,https://www.goodreads.com/book/show/27523.Left_Behind
+The Shards,Bret Easton Ellis,,,,,,,https://www.goodreads.com/book/show/60880820-the-shards
+Watchers,Dean Koontz,,,,,,,https://www.goodreads.com/book/show/32423.Watchers
+"Being a Witch, and Other Things I Didn't Ask For",Sara Pascoe,,,,,,,https://www.goodreads.com/book/show/34186576-being-a-witch-and-other-things-i-didn-t-ask-for
+"Shadowfever (Fever, #5)",Karen Marie Moning,,,,,,,https://www.goodreads.com/book/show/7304203-shadowfever
+Libra,Don DeLillo,,,,,,,https://www.goodreads.com/book/show/400.Libra
+"Darkfever (Fever, #1)",Karen Marie Moning,,,,,,,https://www.goodreads.com/book/show/112750.Darkfever
+From the Mixed-Up Files of Mrs. Basil E. Frankweiler,E.L. Konigsburg,,,,,,,https://www.goodreads.com/book/show/3980.From_the_Mixed_Up_Files_of_Mrs_Basil_E_Frankweiler
+"Corrupt (Devil's Night, #1)",Penelope Douglas,,,,,,,https://www.goodreads.com/book/show/58124274-corrupt
+"The Murder of Roger Ackroyd (Hercule Poirot, #4)",Agatha Christie,,,,,,,https://www.goodreads.com/book/show/16328.The_Murder_of_Roger_Ackroyd
+The Magus,John Fowles,,,,,,,https://www.goodreads.com/book/show/16286.The_Magus
+"Death on the Nile (Hercule Poirot, #18)",Agatha Christie,,,,,,,https://www.goodreads.com/book/show/131359.Death_on_the_Nile
+"The Ballad of Never After (Once Upon a Broken Heart, #2)",Stephanie Garber,,,,,,,https://www.goodreads.com/book/show/59808071-the-ballad-of-never-after
+"Scythe (Arc of a Scythe, #1)",Neal Shusterman,,,,,,,https://www.goodreads.com/book/show/28954189-scythe
+The Book of Mormon: Another Testament of Jesus Christ,Joseph Smith Jr.,,,,,,,https://www.goodreads.com/book/show/323355.The_Book_of_Mormon
+"Alanna: The First Adventure (Song of the Lioness, #1)",Tamora Pierce,,,,,,,https://www.goodreads.com/book/show/13831.Alanna
+"Once Upon a Broken Heart (Once Upon a Broken Heart, #1)",Stephanie Garber,,,,,,,https://www.goodreads.com/book/show/55987278-once-upon-a-broken-heart
+John Adams,David McCullough,,,,,,,https://www.goodreads.com/book/show/2203.John_Adams
+Rosencrantz and Guildenstern Are Dead,Tom Stoppard,,,,,,,https://www.goodreads.com/book/show/18545.Rosencrantz_and_Guildenstern_Are_Dead
+Under the Dome,Stephen        King,,,,,,,https://www.goodreads.com/book/show/6320534-under-the-dome
+Possession,A.S. Byatt,,,,,,,https://www.goodreads.com/book/show/41219.Possession
+The Blind Assassin,Margaret Atwood,,,,,,,https://www.goodreads.com/book/show/78433.The_Blind_Assassin
+"Pretties (Uglies, #2)",Scott Westerfeld,,,,,,,https://www.goodreads.com/book/show/24768.Pretties
+"The Death Cure (The Maze Runner, #3)",James Dashner,,,,,,,https://www.goodreads.com/book/show/7864437-the-death-cure
+The Winter of Frankie Machine,Don Winslow,,,,,,,https://www.goodreads.com/book/show/164760.The_Winter_of_Frankie_Machine
+Cosmos,Carl Sagan,,,,,,,https://www.goodreads.com/book/show/55030.Cosmos
+"The Sisterhood of the Traveling Pants (Sisterhood, #1)",Ann Brashares,,,,,,,https://www.goodreads.com/book/show/452306.The_Sisterhood_of_the_Traveling_Pants
+House of Sand and Fog,Andre Dubus III,,,,,,,https://www.goodreads.com/book/show/38311414-house-of-sand-and-fog
+"Odd Thomas (Odd Thomas, #1)",Dean Koontz,,,,,,,https://www.goodreads.com/book/show/14995.Odd_Thomas
+"Keeper of the Lost Cities (Keeper of the Lost Cities, #1)",Shannon Messenger,,,,,,,https://www.goodreads.com/book/show/12842828-keeper-of-the-lost-cities
+The Agony and the Ecstasy,Irving Stone,,,,,,,https://www.goodreads.com/book/show/321552.The_Agony_and_the_Ecstasy
+Papillon,Henri Charrière,,,,,,,https://www.goodreads.com/book/show/6882.Papillon
+Bury My Heart at Wounded Knee: An Indian History of the American West,Dee Brown,,,,,,,https://www.goodreads.com/book/show/76401.Bury_My_Heart_at_Wounded_Knee
+The Sirens of Titan,Kurt Vonnegut Jr.,,,,,,,https://www.goodreads.com/book/show/4982.The_Sirens_of_Titan
+"Consequences (Consequences, #1)",Aleatha Romig,,,,,,,https://www.goodreads.com/book/show/12368985-consequences
+"Lover Unbound (Black Dagger Brotherhood, #5)",J.R. Ward,,,,,,,https://www.goodreads.com/book/show/304027.Lover_Unbound
+On Writing: A Memoir of the Craft,Stephen        King,,,,,,,https://www.goodreads.com/book/show/10569.On_Writing
+Freakonomics: A Rogue Economist Explores the Hidden Side of Everything,Steven D. Levitt,,,,,,,https://www.goodreads.com/book/show/1202.Freakonomics
+Veronika Decides to Die,Paulo Coelho,,,,,,,https://www.goodreads.com/book/show/1431.Veronika_Decides_to_Die
+"Truth (Consequences, #2)",Aleatha Romig,,,,,,,https://www.goodreads.com/book/show/16070018-truth
+How to Win Friends & Influence People,Dale Carnegie,,,,,,,https://www.goodreads.com/book/show/4865.How_to_Win_Friends_Influence_People
+A Heartbreaking Work of Staggering Genius,Dave Eggers,,,,,,,https://www.goodreads.com/book/show/4953.A_Heartbreaking_Work_of_Staggering_Genius
+"Storm Front (The Dresden Files, #1)",Jim  Butcher,,,,,,,https://www.goodreads.com/book/show/47212.Storm_Front
+The Elegance of the Hedgehog,Muriel Barbery,,,,,,,https://www.goodreads.com/book/show/2967752-the-elegance-of-the-hedgehog
+Corelli’s Mandolin,Louis de Bernières,,,,,,,https://www.goodreads.com/book/show/3388.Corelli_s_Mandolin
+The Drowning Woman,Robyn Harding,,,,,,,https://www.goodreads.com/book/show/62874245-the-drowning-woman
+"Magical Midlife Awakening (Leveling Up, #9)",K.F. Breene,,,,,,,https://www.goodreads.com/book/show/205840559-magical-midlife-awakening
+"Prodigy (Legend, #2)",Marie Lu,,,,,,,https://www.goodreads.com/book/show/13414446-prodigy
+Murder on Family Grounds (Mary Wandwalker #3),Susan  Rowland,,,,,,,https://www.goodreads.com/book/show/205338104-murder-on-family-grounds
+"A Canticle for Leibowitz (St. Leibowitz, #1)",Walter M. Miller Jr.,,,,,,,https://www.goodreads.com/book/show/164154.A_Canticle_for_Leibowitz
+The Witch of Blackbird Pond,Elizabeth George Speare,,,,,,,https://www.goodreads.com/book/show/703292.The_Witch_of_Blackbird_Pond
+Stoner,John  Williams,,,,,,,https://www.goodreads.com/book/show/166997.Stoner
+"Killing Sarai (In the Company of Killers, #1)",J.A. Redmerski,,,,,,,https://www.goodreads.com/book/show/20559676-killing-sarai
+"I'd Tell You I Love You, But Then I'd Have to Kill You (Gallagher Girls, #1)",Ally Carter,,,,,,,https://www.goodreads.com/book/show/852470.I_d_Tell_You_I_Love_You_But_Then_I_d_Have_to_Kill_You
+Digital Fortress,Dan    Brown,,,,,,,https://www.goodreads.com/book/show/11125.Digital_Fortress
+Something Wicked This Way Comes,Ray Bradbury,,,,,,,https://www.goodreads.com/book/show/248596.Something_Wicked_This_Way_Comes
+Prodigal Summer,Barbara Kingsolver,,,,,,,https://www.goodreads.com/book/show/14249.Prodigal_Summer
+Meditations,Marcus Aurelius,,,,,,,https://www.goodreads.com/book/show/30659.Meditations
+"The Alienist (Dr. Laszlo Kreizler, #1)",Caleb Carr,,,,,,,https://www.goodreads.com/book/show/40024.The_Alienist
+The Aeneid,Virgil,,,,,,,https://www.goodreads.com/book/show/12914.The_Aeneid
+Song of Solomon,Toni Morrison,,,,,,,https://www.goodreads.com/book/show/11334.Song_of_Solomon
+Holy Bible: New International Version,Anonymous,,,,,,,https://www.goodreads.com/book/show/280111.Holy_Bible
+Battle Royale,Koushun Takami,,,,,,,https://www.goodreads.com/book/show/57891.Battle_Royale
+Babel,R.F. Kuang,,,,,,,https://www.goodreads.com/book/show/57945316-babel
+The Trigger: Hunting the Assassin Who Brought the World to War,Tim Butcher,,,,,,,https://www.goodreads.com/book/show/18300212-the-trigger
+"Tears of Tess (Monsters in the Dark, #1)",Pepper Winters,,,,,,,https://www.goodreads.com/book/show/18134894-tears-of-tess
+Around the World in Eighty Days,Jules Verne,,,,,,,https://www.goodreads.com/book/show/54479.Around_the_World_in_Eighty_Days
+This Is How You Lose the Time War,Amal El-Mohtar,,,,,,,https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war
+"Love Story (Love Story, #1)",Erich Segal,,,,,,,https://www.goodreads.com/book/show/73968.Love_Story
+"The No. 1 Ladies' Detective Agency (No. 1 Ladies' Detective Agency, #1)",Alexander McCall Smith,,,,,,,https://www.goodreads.com/book/show/7061.The_No_1_Ladies_Detective_Agency
+"It Ain't Me, Babe (Hades Hangmen, #1)",Tillie Cole,,,,,,,https://www.goodreads.com/book/show/22020052-it-ain-t-me-babe
+Ficciones,Jorge Luis Borges,,,,,,,https://www.goodreads.com/book/show/426504.Ficciones
+Jitterbug Perfume,Tom Robbins,,,,,,,https://www.goodreads.com/book/show/8682.Jitterbug_Perfume
+"Tempted (House of Night, #6)",P.C. Cast,,,,,,,https://www.goodreads.com/book/show/6262365-tempted
+Ivanhoe,Walter Scott,,,,,,,https://www.goodreads.com/book/show/6440.Ivanhoe
+Howl and Other Poems,Allen Ginsberg,,,,,,,https://www.goodreads.com/book/show/6295.Howl_and_Other_Poems
+"The High Auction (Wisdom Revolution, #1)",Misba,,,,,,,https://www.goodreads.com/book/show/60215314-the-high-auction
+Anthem,Ayn Rand,,,,,,,https://www.goodreads.com/book/show/667.Anthem
+"The Color of Magic (Discworld, #1; Rincewind, #1)",Terry Pratchett,,,,,,,https://www.goodreads.com/book/show/34497.The_Color_of_Magic
+"An Ember in the Ashes (An Ember in the Ashes, #1)",Sabaa Tahir,,,,,,,https://www.goodreads.com/book/show/27774758-an-ember-in-the-ashes
+"Rubinrot (Edelstein-Trilogie, #1)",Kerstin Gier,,,,,,,https://www.goodreads.com/book/show/6325285-rubinrot
+"One Fish, Two Fish, Red Fish, Blue Fish",Dr. Seuss,,,,,,,https://www.goodreads.com/book/show/7770.One_Fish_Two_Fish_Red_Fish_Blue_Fish
+"The Oldest Dance (Wisdom Revolution, #2)",Misba,,,,,,,https://www.goodreads.com/book/show/60215458-the-oldest-dance
+"Confessions of a Shopaholic (Shopaholic, #1)",Sophie Kinsella,,,,,,,https://www.goodreads.com/book/show/9416.Confessions_of_a_Shopaholic
+"Ender's Shadow (The Shadow Series, #1)",Orson Scott Card,,,,,,,https://www.goodreads.com/book/show/9532.Ender_s_Shadow
+"Princess Academy (Princess Academy, #1)",Shannon Hale,,,,,,,https://www.goodreads.com/book/show/85990.Princess_Academy
+"The Assassin's Blade (Throne of Glass, #0.1-0.5)",Sarah J. Maas,,,,,,,https://www.goodreads.com/book/show/18243700-the-assassin-s-blade
+The Story of My Life,Helen Keller,,,,,,,https://www.goodreads.com/book/show/821611.The_Story_of_My_Life
+"The Big Sleep (Philip Marlowe, #1)",Raymond Chandler,,,,,,,https://www.goodreads.com/book/show/2052.The_Big_Sleep
+Mistress Suffragette,Diana   Forbes,,,,,,,https://www.goodreads.com/book/show/34521870-mistress-suffragette
+The Magic Mountain,Thomas Mann,,,,,,,https://www.goodreads.com/book/show/88077.The_Magic_Mountain
+"A Darker Shade of Magic (Shades of Magic, #1)",V.E. Schwab,,,,,,,https://www.goodreads.com/book/show/22055262-a-darker-shade-of-magic
+The Invention of Hugo Cabret,Brian Selznick,,,,,,,https://www.goodreads.com/book/show/9673436-the-invention-of-hugo-cabret
+Message in a Bottle,Nicholas Sparks,,,,,,,https://www.goodreads.com/book/show/3478.Message_in_a_Bottle
+One Day,David Nicholls,,,,,,,https://www.goodreads.com/book/show/6280118-one-day
+"Antigone (The Theban Plays, #3)",Sophocles,,,,,,,https://www.goodreads.com/book/show/7728.Antigone
+"Souls Unfractured (Hades Hangmen, #3)",Tillie Cole,,,,,,,https://www.goodreads.com/book/show/22107214-souls-unfractured
+"Fablehaven (Fablehaven, #1)",Brandon Mull,,,,,,,https://www.goodreads.com/book/show/44652.Fablehaven
+"Club Dead (Sookie Stackhouse, #3)",Charlaine Harris,,,,,,,https://www.goodreads.com/book/show/140082.Club_Dead
+Walk Two Moons,Sharon Creech,,,,,,,https://www.goodreads.com/book/show/53496.Walk_Two_Moons
+The Polymorph,Max Nowaz,,,,,,,https://www.goodreads.com/book/show/101265124-the-polymorph
+Orlando,Virginia Woolf,,,,,,,https://www.goodreads.com/book/show/18839.Orlando
+"Living Dead in Dallas (Sookie Stackhouse, #2)",Charlaine Harris,,,,,,,https://www.goodreads.com/book/show/110494.Living_Dead_in_Dallas
+The Power of Myth,Joseph Campbell,,,,,,,https://www.goodreads.com/book/show/35519.The_Power_of_Myth
+The Shell Seekers,Rosamunde Pilcher,,,,,,,https://www.goodreads.com/book/show/37095.The_Shell_Seekers
+It's Kind of a Funny Story,Ned Vizzini,,,,,,,https://www.goodreads.com/book/show/248704.It_s_Kind_of_a_Funny_Story
+A Winter Grave,Peter  May,,,,,,,https://www.goodreads.com/book/show/67998095-a-winter-grave
+"The Girl in the Eagle's Talons (Millennium, #7)",Karin Smirnoff,,,,,,,https://www.goodreads.com/book/show/75523433-the-girl-in-the-eagle-s-talons
+The Corrections,Jonathan Franzen,,,,,,,https://www.goodreads.com/book/show/3805.The_Corrections
+"Glass Houses (The Morganville Vampires, #1)",Rachel Caine,,,,,,,https://www.goodreads.com/book/show/27266.Glass_Houses
+Hard-Boiled Wonderland and the End of the World,Haruki Murakami,,,,,,,https://www.goodreads.com/book/show/10374.Hard_Boiled_Wonderland_and_the_End_of_the_World
+Angle of Repose,Wallace Stegner,,,,,,,https://www.goodreads.com/book/show/292408.Angle_of_Repose
+The Marriage Portrait,Maggie O'Farrell,,,,,,,https://www.goodreads.com/book/show/60353768-the-marriage-portrait
+The Jungle Books,Rudyard Kipling,,,,,,,https://www.goodreads.com/book/show/41684.The_Jungle_Books
+The Namesake,Jhumpa Lahiri,,,,,,,https://www.goodreads.com/book/show/33917.The_Namesake
+"We Need to Talk About Kevin by Shriver, Lionel. (Harper Perennial,2006) [Paperback]",Lionel Shriver,,,,,,,https://www.goodreads.com/book/show/130739876-we-need-to-talk-about-kevin-by-shriver-lionel-harper-perennial-2006
+"Lover Revealed (Black Dagger Brotherhood, #4)",J.R. Ward,,,,,,,https://www.goodreads.com/book/show/42898.Lover_Revealed
+An Abundance of Katherines,John Green,,,,,,,https://www.goodreads.com/book/show/49750.An_Abundance_of_Katherines
+"The Edge of Never (The Edge of Never, #1)",J.A. Redmerski,,,,,,,https://www.goodreads.com/book/show/16081272-the-edge-of-never
+Cryptonomicon,Neal Stephenson,,,,,,,https://www.goodreads.com/book/show/816.Cryptonomicon
+Jude the Obscure,Thomas Hardy,,,,,,,https://www.goodreads.com/book/show/50798.Jude_the_Obscure
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,,,,,,,https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People
+Geek Love,Katherine Dunn,,,,,,,https://www.goodreads.com/book/show/13872.Geek_Love
+Keep It in the Family,John Marrs,,,,,,,https://www.goodreads.com/book/show/60109530-keep-it-in-the-family
+"The Well of Ascension (Mistborn, #2)",Brandon Sanderson,,,,,,,https://www.goodreads.com/book/show/68429.The_Well_of_Ascension
+Still Alice,Lisa Genova,,,,,,,https://www.goodreads.com/book/show/2153405.Still_Alice
+"Small Gods (Discworld, #13)",Terry Pratchett,,,,,,,https://www.goodreads.com/book/show/34484.Small_Gods
+"Inara (Godfrey Davis, #3)",A.R. Merrydew,,,,,,,https://www.goodreads.com/book/show/215186841-inara
+I Am the Messenger,Markus Zusak,,,,,,,https://www.goodreads.com/book/show/19057.I_Am_the_Messenger
+"Mary Poppins (Mary Poppins, #1)",P.L. Travers,,,,,,,https://www.goodreads.com/book/show/152380.Mary_Poppins
+"Into the Wild (Warriors, #1)",Erin Hunter,,,,,,,https://www.goodreads.com/book/show/111332.Into_the_Wild
+"The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy, #2)",Douglas Adams,,,,,,,https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe
+"A Dead and Stormy Night (Nevermore Bookshop Mysteries, #1)",Steffanie Holmes,,,,,,,https://www.goodreads.com/book/show/43594238-a-dead-and-stormy-night
+"The Passage (The Passage, #1)",Justin Cronin,,,,,,,https://www.goodreads.com/book/show/6690798-the-passage
+"Lover Avenged (Black Dagger Brotherhood, #7)",J.R. Ward,,,,,,,https://www.goodreads.com/book/show/5098079-lover-avenged
+Between Shades of Gray,Ruta Sepetys,,,,,,,https://www.goodreads.com/book/show/7824322-between-shades-of-gray
+"Winter (The Lunar Chronicles, #4)",Marissa Meyer,,,,,,,https://www.goodreads.com/book/show/13206900-winter
+"The Poppy War (The Poppy War, #1)",R.F. Kuang,,,,,,,https://www.goodreads.com/book/show/35068705-the-poppy-war
+"Mort (Discworld, #4; Death, #1)",Terry Pratchett,,,,,,,https://www.goodreads.com/book/show/386372.Mort
+The Moon Is a Harsh Mistress,Robert A. Heinlein,,,,,,,https://www.goodreads.com/book/show/16690.The_Moon_Is_a_Harsh_Mistress
+"Haunting Adeline (Cat and Mouse, #1)",H.D. Carlton,,,,,,,https://www.goodreads.com/book/show/58763686-haunting-adeline
+"The Lies of Vampires and Slayers (Magic on Main Street, #1)",K.M. Shea,,,,,,,https://www.goodreads.com/book/show/202901080-the-lies-of-vampires-and-slayers
+Chasing the Devil: The Search for Africa's Fighting Spirit,Tim Butcher,,,,,,,https://www.goodreads.com/book/show/7940583-chasing-the-devil
+My Name Is Asher Lev,Chaim Potok,,,,,,,https://www.goodreads.com/book/show/11507.My_Name_Is_Asher_Lev
+"Fire (Graceling Realm, #2)",Kristin Cashore,,,,,,,https://www.goodreads.com/book/show/6137154-fire
+Dandelion Wine,Ray Bradbury,,,,,,,https://www.goodreads.com/book/show/50033.Dandelion_Wine
+The Omnivore's Dilemma: A Natural History of Four Meals,Michael Pollan,,,,,,,https://www.goodreads.com/book/show/3109.The_Omnivore_s_Dilemma
+Choke,Chuck Palahniuk,,,,,,,https://www.goodreads.com/book/show/29059.Choke
+"From Blood and Ash (Blood and Ash, #1)",Jennifer L. Armentrout,,,,,,,https://www.goodreads.com/book/show/52831200-from-blood-and-ash
+The Portrait of a Lady,Henry James,,,,,,,https://www.goodreads.com/book/show/264.The_Portrait_of_a_Lady
+The White Tiger,Aravind Adiga,,,,,,,https://www.goodreads.com/book/show/1768603.The_White_Tiger
+Living Fearless: Exchanging the Lies of the World for the Liberating Truth of God,Jamie Winship,,,,,,,https://www.goodreads.com/book/show/59317244-living-fearless
+On Earth We're Briefly Gorgeous,Ocean Vuong,,,,,,,https://www.goodreads.com/book/show/41880609-on-earth-we-re-briefly-gorgeous
+No Longer Human,Osamu Dazai,,,,,,,https://www.goodreads.com/book/show/194746.No_Longer_Human
+Wild Swans: Three Daughters of China,Jung Chang,,,,,,,https://www.goodreads.com/book/show/1848.Wild_Swans
+Howards End,E.M. Forster,,,,,,,https://www.goodreads.com/book/show/38374795-howards-end
+"Finale (Hush, Hush, #4)",Becca Fitzpatrick,,,,,,,https://www.goodreads.com/book/show/12751687-finale
+"The Dark Tower (The Dark Tower, #7)",Stephen        King,,,,,,,https://www.goodreads.com/book/show/5091.The_Dark_Tower
+"Worm Holes (Quantum Roots, #2)",Kyle Keyes,,,,,,,https://www.goodreads.com/book/show/34384161-worm-holes
+We Have Always Lived in the Castle,Shirley Jackson,,,,,,,https://www.goodreads.com/book/show/89724.We_Have_Always_Lived_in_the_Castle
+The Forgotten Garden,Kate Morton,,,,,,,https://www.goodreads.com/book/show/3407877-the-forgotten-garden
+A Room of One’s Own,Virginia Woolf,,,,,,,https://www.goodreads.com/book/show/18521.A_Room_of_One_s_Own
+"The Hawthorne Legacy (The Inheritance Games, #2)",Jennifer Lynn Barnes,,,,,,,https://www.goodreads.com/book/show/50531218-the-hawthorne-legacy
+Tender Is the Night,F. Scott Fitzgerald,,,,,,,https://www.goodreads.com/book/show/46164.Tender_Is_the_Night
+"The Hunt for Red October (Jack Ryan, #3)",Tom Clancy,,,,,,,https://www.goodreads.com/book/show/19691.The_Hunt_for_Red_October
+The Long Walk,Richard  Bachman,,,,,,,https://www.goodreads.com/book/show/9014.The_Long_Walk
+Twenty Years Later,Charlie Donlea,,,,,,,https://www.goodreads.com/book/show/57645345-twenty-years-later
+"The Eden Paradox (Eden Paradox, #1)",Barry Kirwan,,,,,,,https://www.goodreads.com/book/show/43722869-the-eden-paradox
+The Bridges of Madison County,Robert James Waller,,,,,,,https://www.goodreads.com/book/show/83674.The_Bridges_of_Madison_County
+"Heretical Fishing (Heretical Fishing, #1)",Haylock Jobson,,,,,,,https://www.goodreads.com/book/show/208099994-heretical-fishing
+Deception Point,Dan    Brown,,,,,,,https://www.goodreads.com/book/show/976.Deception_Point
+"Linger (The Wolves of Mercy Falls, #2)",Maggie Stiefvater,,,,,,,https://www.goodreads.com/book/show/6654313-linger
+A Walk in the Woods: Rediscovering America on the Appalachian Trail,Bill Bryson,,,,,,,https://www.goodreads.com/book/show/9791.A_Walk_in_the_Woods
+"The City of Ember (Book of Ember, #1)",Jeanne DuPrau,,,,,,,https://www.goodreads.com/book/show/307791.The_City_of_Ember
+Turtles All the Way Down,John Green,,,,,,,https://www.goodreads.com/book/show/35504431-turtles-all-the-way-down
+Pale Fire,Vladimir Nabokov,,,,,,,https://www.goodreads.com/book/show/7805.Pale_Fire
+"Forrest Gump (Forrest Gump, #1)",Winston Groom,,,,,,,https://www.goodreads.com/book/show/186190.Forrest_Gump
+The Sea of Tranquility,Katja Millay,,,,,,,https://www.goodreads.com/book/show/16151178-the-sea-of-tranquility
+Survivor,Chuck Palahniuk,,,,,,,https://www.goodreads.com/book/show/36236123-survivor
+"84, Charing Cross Road",Helene Hanff,,,,,,,https://www.goodreads.com/book/show/368916.84_Charing_Cross_Road
+Exodus,Leon Uris,,,,,,,https://www.goodreads.com/book/show/42697.Exodus
+Ethan Frome,Edith Wharton,,,,,,,https://www.goodreads.com/book/show/5246.Ethan_Frome
+The Sorrows of Young Werther,Johann Wolfgang von Goethe,,,,,,,https://www.goodreads.com/book/show/16640.The_Sorrows_of_Young_Werther
+"Iron Flame (The Empyrean, #2)",Rebecca Yarros,,,,,,,https://www.goodreads.com/book/show/90202302-iron-flame
+Beach Read,Emily Henry,,,,,,,https://www.goodreads.com/book/show/52867387-beach-read
