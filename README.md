@@ -110,6 +110,18 @@ book-recommendation-system/
 - **Version Control:** Git / GitHub
 
 ---
+---
+
+## 🖥️ Project Presentation
+
+You can explore the visual summary of this project in the following Google Slides presentation:
+
+📎 **[Book Recommendation System — Presentation](https://docs.google.com/presentation/d/1E7G5gAWvXtJ8QqcWSpAUfGRWLJ3w96kZmLjyGypRF10/edit?usp=sharing)**
+
+---
+
+*The presentation summarizes the full pipeline: from data collection and enrichment to clustering insights and the upcoming Streamlit app for book exploration.*
+
 
 ## 💬 Author
 
