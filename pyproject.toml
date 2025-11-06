@@ -29,6 +29,8 @@ dependencies = [
     "python-dotenv",
     "pyyaml>=6.0.3",
     "tqdm>=4.67.1",
+    "dataset>=1.6.2",
+    "datasets>=4.4.1",
 ]
 
 [tool.uv]
