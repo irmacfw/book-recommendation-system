@@ -93,7 +93,8 @@ book-recommendation-system/
 
 ## 🖥️ Streamlit App
 
-🔗 **[Book Recommendation Explorer (Prototype)]([https://book-recommendation-system-3epf6uhaz4gnjlz99fnd9o.streamlit.app/))**  
+🚀 Explore the live prototype here:  
+👉 [**Book Recommendation Explorer**](https://book-recommendation-system-3epf6uhaz4gnjlz99fnd9o.streamlit.app/) — built with Streamlit, showing book clusters based on rating and price.
 
 The app allows users to:
 - Explore clusters visually  
