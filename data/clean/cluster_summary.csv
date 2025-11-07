@@ -1,0 +1,112 @@
+﻿cluster,genre,Count,Avg_Rating,Avg_Price_EUR,Proportion (%)
+0,Fiction,192,3.88,8.05,55.81
+0,Unknown,47,3.84,8.81,13.66
+0,Juvenile Fiction,27,3.86,8.31,7.85
+0,Young Adult Fiction,23,3.85,8.41,6.69
+0,Drama,10,3.81,8.11,2.91
+0,Biography & Autobiography,5,3.71,9.36,1.45
+0,Foreign Language Study,4,3.76,8.09,1.16
+0,Poetry,3,3.62,6.9,0.87
+0,Religion,3,3.93,9.16,0.87
+0,Education,2,3.82,6.74,0.58
+0,Philosophy,2,3.81,5.99,0.58
+0,Alcoholic Psychoses,1,3.95,8.99,0.29
+0,Art,1,4.0,8.99,0.29
+0,"Body, Mind & Spirit",1,3.62,8.99,0.29
+0,Business & Economics,1,3.92,10.21,0.29
+0,Children'S Literature,1,3.95,8.99,0.29
+0,Christmas Stories,1,4.02,8.99,0.29
+0,Comics & Graphic Novels,1,3.94,5.99,0.29
+0,Computer Programmers,1,4.02,8.99,0.29
+0,Dallas (Tex.),1,3.97,8.99,0.29
+0,English Literature,1,3.88,8.99,0.29
+0,Everyman,1,3.98,8.99,0.29
+0,Evolution,1,4.01,8.99,0.29
+0,"Grey, Nora (Fictitious Character)",1,3.98,8.99,0.29
+0,Horror Tales,1,3.99,8.99,0.29
+0,Humor,1,3.97,5.99,0.29
+0,Identity (Psychology),1,3.9,8.99,0.29
+0,London (England),1,3.83,8.99,0.29
+0,Mexico,1,3.95,8.99,0.29
+0,Nuclear Warfare,1,3.92,8.99,0.29
+0,Paranormal Romance Stories,1,4.01,8.99,0.29
+0,Performing Arts,1,3.94,12.56,0.29
+0,Slavery,1,3.92,8.99,0.29
+0,Study Aids,1,3.8,8.99,0.29
+0,Travel,1,3.98,10.99,0.29
+0,True Crime,1,3.92,9.09,0.29
+0,Waitresses,1,3.97,8.99,0.29
+1,Fiction,400,4.19,8.84,48.13
+1,Juvenile Fiction,115,4.23,8.5,13.84
+1,Unknown,102,4.16,8.96,12.27
+1,Young Adult Fiction,67,4.16,9.24,8.06
+1,Biography & Autobiography,30,4.14,8.89,3.61
+1,Comics & Graphic Novels,11,4.29,8.04,1.32
+1,History,9,4.23,9.66,1.08
+1,Poetry,8,4.1,9.39,0.96
+1,Religion,8,4.19,11.87,0.96
+1,Drama,7,4.12,8.57,0.84
+1,Philosophy,4,4.14,8.99,0.48
+1,Literary Collections,3,4.31,14.45,0.36
+1,Science,3,4.21,8.63,0.36
+1,Adventure Stories,2,4.11,8.99,0.24
+1,Alabama,2,4.27,8.99,0.24
+1,Business & Economics,2,4.08,11.99,0.24
+1,"Detective And Mystery Stories, English",2,4.25,8.99,0.24
+1,Family & Relationships,2,4.19,8.99,0.24
+1,Literary Criticism,2,4.16,9.28,0.24
+1,Self-Help,2,4.43,6.76,0.24
+1,Social Science,2,4.11,7.45,0.24
+1,Travel,2,4.09,12.24,0.24
+1,Accelerated Readers,1,4.17,8.99,0.12
+1,Adultery,1,4.11,8.99,0.12
+1,"Animals, Mythical",1,4.42,8.99,0.12
+1,Apprentices,1,4.2,8.99,0.12
+1,Art,1,4.11,6.46,0.12
+1,Artists' Books,1,4.16,8.99,0.12
+1,Astronauts,1,4.42,8.99,0.12
+1,Black Dagger Brotherhood (Fictitious Characters),1,4.3,8.99,0.12
+1,"Body, Mind & Spirit",1,4.14,8.99,0.12
+1,Brazil,1,4.11,8.99,0.12
+1,British,1,4.11,8.99,0.12
+1,Brothers And Sisters,1,4.19,8.99,0.12
+1,Buddha (The Concept),1,4.08,8.99,0.12
+1,Budget,1,4.36,8.99,0.12
+1,Cattle Drives,1,4.57,8.99,0.12
+1,Children'S Stories,1,4.45,8.99,0.12
+1,"Children'S Stories, English",1,4.11,8.99,0.12
+1,Courtship,1,4.29,8.99,0.12
+1,Cult Members,1,4.11,8.99,0.12
+1,Cults,1,4.22,8.99,0.12
+1,Education,1,4.11,9.99,0.12
+1,Foreign Language Study,1,4.13,6.99,0.12
+1,Good And Evil,1,4.04,8.99,0.12
+1,Governesses In Literature,1,4.16,8.99,0.12
+1,Government Investigators,1,4.06,8.99,0.12
+1,Great Britain,1,4.11,8.99,0.12
+1,Health & Fitness,1,4.17,8.88,0.12
+1,High School Students,1,4.2,8.99,0.12
+1,"Holocaust, Jewish (1939-1945)",1,4.37,8.99,0.12
+1,Human-Alien Encounters,1,4.11,8.99,0.12
+1,Interplanetary Voyages,1,4.11,8.99,0.12
+1,Language Arts & Disciplines,1,4.11,8.99,0.12
+1,Large Print Books,1,4.22,8.99,0.12
+1,Man-Woman Relationships,1,4.1,8.99,0.12
+1,Mormon Church,1,4.11,8.99,0.12
+1,Motion Picture Plays,1,4.16,8.99,0.12
+1,Music,1,4.11,8.99,0.12
+1,Nature,1,4.11,8.99,0.12
+1,Oregon,1,4.24,8.99,0.12
+1,Performing Arts,1,4.13,8.99,0.12
+1,Puzzles,1,4.23,8.99,0.12
+1,Readers,1,4.36,8.99,0.12
+1,Study Aids,1,4.57,2.44,0.12
+1,True Crime,1,4.09,8.09,0.12
+1,United States,1,4.31,8.99,0.12
+1,Videodiscs,1,4.11,8.99,0.12
+2,Young Adult Fiction,6,4.4,38.46,40.0
+2,Fiction,3,4.13,36.61,20.0
+2,Juvenile Fiction,2,3.95,58.28,13.33
+2,Literary Criticism,2,4.11,61.74,13.33
+2,Art,1,4.11,31.02,6.67
+2,Science,1,4.11,42.45,6.67

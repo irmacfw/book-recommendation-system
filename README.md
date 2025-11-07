@@ -18,13 +18,13 @@ The goal was to discover natural groupings among books based on ratings, genres,
 | Phase | Description | Output |
 |:--|:--|:--|
 | **1. Data Acquisition** | Scraped 1,190 books from Goodreads (“Best Books Ever” list). | `books_clean.csv` |
-| **2. API Enrichment** | Retrieved missing metadata (genre, price, cover) via Google Books API. | `books_enriched.csv` |
-| **3. Kaggle Merge** | Merged with *goodbooks-10* dataset to fill missing ratings and prices. | `books_combined.csv` |
-| **4. Cleaning & Standardization** | Removed duplicates, imputed missing prices with median (8.99 EUR), and formatted text fields. | `books_clean_final.csv` |
+| **2. API Enrichment** | Retrieved missing metadata (genre, price, cover) via Google Books API. | `books_clean_1000.csv` |
+| **3. Kaggle Merge** | Merged with *goodbooks-10* dataset to fill missing ratings and prices. | `books_clean_enriched_1000.csv` |
+| **4. Cleaning & Standardization** | Removed duplicates, imputed missing prices with median (8.99 EUR), and formatted text fields. | `books_clean_final_1000.csv` |
 | **5. Feature Preparation** | Selected numerical features (`avg_rating`, `price`) and scaled them with StandardScaler. | `X_scaled.npy` |
-| **6. Clustering (K-Means + PCA)** | Applied **K-Means** with k = 2–10; selected **k = 2** using Elbow & Silhouette methods. Reduced to 2D with **PCA** for visualization. | `books_clustered_final.csv` |
-| **7. Insights & Interpretation** | Identified two reader segments: *Mainstream Fiction* (affordable) vs *Premium Niche Titles* (high-priced). | `cluster_summary.csv` |
-| **8. Streamlit Deployment** | Built an interactive **Streamlit app** to explore clusters, analyze features, and get recommendations. | `/app/Book_Recommendation_Explorer.py` |
+| **6. Clustering (K-Means + PCA)** | Applied **K-Means** with k = 2–10; selected **k = 3** using Elbow & Silhouette methods. Reduced to 2D with **PCA** for visualization. | `books_clustered_final_enriched.csv` |
+| **7. Insights & Interpretation** | Identified three reader segments: *Mainstream and affordable*,  *mid-range market*, combining both fiction and non-fiction titles, and *premium* and niche titles.| `cluster_summary.csv` |
+| **8. Streamlit Deployment** | Built an interactive **Streamlit app** to explore clusters, analyze features, and get recommendations. | `/app/app.py` |
 
 ---
 
@@ -40,10 +40,11 @@ The goal was to discover natural groupings among books based on ratings, genres,
 
 ## 📊 Key Results
 
-- **Optimal K = 2**, showing clear separation between mainstream and premium clusters.  
+- **Optimal K = 3**, showing  separation between *Mainstream and affordable*,  *mid-range market*, combining both       fiction and non-fiction titles and *premium* and niche titles
 - **PCA visualization** confirmed distinct group patterns in 2D space.  
-- **Cluster 0:** affordable fiction, YA, and popular genres (avg. price ≈ €9).  
-- **Cluster 1:** niche, literary, or academic titles (avg. price ≈ €60).  
+- **Cluster 0:** mainstream and affordable (avg. price  €8.28 and average ratings 3.87 ★.  
+- **Cluster 1:** mid-range market  (avg. price  €8.89 and average ratings 4.19 ★.
+- **Cluster 2:** premium  (avg. price  €43.61 and average ratings 4.21 ★.
 - **Streamlit App:** enables interactive exploration of clusters, prices, ratings, and recommendations.
 
 ---

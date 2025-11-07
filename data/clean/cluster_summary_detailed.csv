@@ -1,0 +1,112 @@
+﻿cluster,genre,count,proportion_%,avg_rating,price
+0,Fiction,192,55.81,3.87,8.28
+0,Unknown,47,13.66,3.87,8.28
+0,Juvenile Fiction,27,7.85,3.87,8.28
+0,Young Adult Fiction,23,6.69,3.87,8.28
+0,Drama,10,2.91,3.87,8.28
+0,Biography & Autobiography,5,1.45,3.87,8.28
+0,Foreign Language Study,4,1.16,3.87,8.28
+0,Poetry,3,0.87,3.87,8.28
+0,Religion,3,0.87,3.87,8.28
+0,Education,2,0.58,3.87,8.28
+0,Philosophy,2,0.58,3.87,8.28
+0,Alcoholic Psychoses,1,0.29,3.87,8.28
+0,Art,1,0.29,3.87,8.28
+0,"Body, Mind & Spirit",1,0.29,3.87,8.28
+0,Business & Economics,1,0.29,3.87,8.28
+0,Children'S Literature,1,0.29,3.87,8.28
+0,Christmas Stories,1,0.29,3.87,8.28
+0,Comics & Graphic Novels,1,0.29,3.87,8.28
+0,Computer Programmers,1,0.29,3.87,8.28
+0,Dallas (Tex.),1,0.29,3.87,8.28
+0,English Literature,1,0.29,3.87,8.28
+0,Everyman,1,0.29,3.87,8.28
+0,Evolution,1,0.29,3.87,8.28
+0,"Grey, Nora (Fictitious Character)",1,0.29,3.87,8.28
+0,Horror Tales,1,0.29,3.87,8.28
+0,Humor,1,0.29,3.87,8.28
+0,Identity (Psychology),1,0.29,3.87,8.28
+0,London (England),1,0.29,3.87,8.28
+0,Mexico,1,0.29,3.87,8.28
+0,Nuclear Warfare,1,0.29,3.87,8.28
+0,Paranormal Romance Stories,1,0.29,3.87,8.28
+0,Performing Arts,1,0.29,3.87,8.28
+0,Slavery,1,0.29,3.87,8.28
+0,Study Aids,1,0.29,3.87,8.28
+0,Travel,1,0.29,3.87,8.28
+0,True Crime,1,0.29,3.87,8.28
+0,Waitresses,1,0.29,3.87,8.28
+1,Fiction,400,48.13,4.19,8.89
+1,Juvenile Fiction,115,13.84,4.19,8.89
+1,Unknown,102,12.27,4.19,8.89
+1,Young Adult Fiction,67,8.06,4.19,8.89
+1,Biography & Autobiography,30,3.61,4.19,8.89
+1,Comics & Graphic Novels,11,1.32,4.19,8.89
+1,History,9,1.08,4.19,8.89
+1,Poetry,8,0.96,4.19,8.89
+1,Religion,8,0.96,4.19,8.89
+1,Drama,7,0.84,4.19,8.89
+1,Philosophy,4,0.48,4.19,8.89
+1,Literary Collections,3,0.36,4.19,8.89
+1,Science,3,0.36,4.19,8.89
+1,Adventure Stories,2,0.24,4.19,8.89
+1,Alabama,2,0.24,4.19,8.89
+1,Business & Economics,2,0.24,4.19,8.89
+1,"Detective And Mystery Stories, English",2,0.24,4.19,8.89
+1,Family & Relationships,2,0.24,4.19,8.89
+1,Literary Criticism,2,0.24,4.19,8.89
+1,Self-Help,2,0.24,4.19,8.89
+1,Social Science,2,0.24,4.19,8.89
+1,Travel,2,0.24,4.19,8.89
+1,Accelerated Readers,1,0.12,4.19,8.89
+1,Adultery,1,0.12,4.19,8.89
+1,"Animals, Mythical",1,0.12,4.19,8.89
+1,Apprentices,1,0.12,4.19,8.89
+1,Art,1,0.12,4.19,8.89
+1,Artists' Books,1,0.12,4.19,8.89
+1,Astronauts,1,0.12,4.19,8.89
+1,Black Dagger Brotherhood (Fictitious Characters),1,0.12,4.19,8.89
+1,"Body, Mind & Spirit",1,0.12,4.19,8.89
+1,Brazil,1,0.12,4.19,8.89
+1,British,1,0.12,4.19,8.89
+1,Brothers And Sisters,1,0.12,4.19,8.89
+1,Buddha (The Concept),1,0.12,4.19,8.89
+1,Budget,1,0.12,4.19,8.89
+1,Cattle Drives,1,0.12,4.19,8.89
+1,Children'S Stories,1,0.12,4.19,8.89
+1,"Children'S Stories, English",1,0.12,4.19,8.89
+1,Courtship,1,0.12,4.19,8.89
+1,Cult Members,1,0.12,4.19,8.89
+1,Cults,1,0.12,4.19,8.89
+1,Education,1,0.12,4.19,8.89
+1,Foreign Language Study,1,0.12,4.19,8.89
+1,Good And Evil,1,0.12,4.19,8.89
+1,Governesses In Literature,1,0.12,4.19,8.89
+1,Government Investigators,1,0.12,4.19,8.89
+1,Great Britain,1,0.12,4.19,8.89
+1,Health & Fitness,1,0.12,4.19,8.89
+1,High School Students,1,0.12,4.19,8.89
+1,"Holocaust, Jewish (1939-1945)",1,0.12,4.19,8.89
+1,Human-Alien Encounters,1,0.12,4.19,8.89
+1,Interplanetary Voyages,1,0.12,4.19,8.89
+1,Language Arts & Disciplines,1,0.12,4.19,8.89
+1,Large Print Books,1,0.12,4.19,8.89
+1,Man-Woman Relationships,1,0.12,4.19,8.89
+1,Mormon Church,1,0.12,4.19,8.89
+1,Motion Picture Plays,1,0.12,4.19,8.89
+1,Music,1,0.12,4.19,8.89
+1,Nature,1,0.12,4.19,8.89
+1,Oregon,1,0.12,4.19,8.89
+1,Performing Arts,1,0.12,4.19,8.89
+1,Puzzles,1,0.12,4.19,8.89
+1,Readers,1,0.12,4.19,8.89
+1,Study Aids,1,0.12,4.19,8.89
+1,True Crime,1,0.12,4.19,8.89
+1,United States,1,0.12,4.19,8.89
+1,Videodiscs,1,0.12,4.19,8.89
+2,Young Adult Fiction,6,40.0,4.21,43.61
+2,Fiction,3,20.0,4.21,43.61
+2,Juvenile Fiction,2,13.33,4.21,43.61
+2,Literary Criticism,2,13.33,4.21,43.61
+2,Art,1,6.67,4.21,43.61
+2,Science,1,6.67,4.21,43.61
