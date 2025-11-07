@@ -84,6 +84,7 @@ book-recommendation-system/
 │
 ├── config.yaml                                # Project configuration (paths, constants)
 ├── pyproject.toml                             # Dependencies and environment setup
+├── requirements                               # Streamlit app
 ├── uv.lock                                    # Environment lock file
 └── README.md                                  # Project documentation
 
@@ -92,7 +93,7 @@ book-recommendation-system/
 
 ## 🖥️ Streamlit App
 
-🔗 **[Book Recommendation Explorer (Prototype)](https://streamlit.io/)**  
+🔗 **[Book Recommendation Explorer (Prototype)](https://streamlit.io/](https://book-recommendation-system-3epf6uhaz4gnjlz99fnd9o.streamlit.app/)**  
 
 The app allows users to:
 - Explore clusters visually  
